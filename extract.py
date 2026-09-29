@@ -91,6 +91,9 @@ for index, row in indv_artist.iterrows():
                 data = retry_response.json()
                 filename = f"{main_artist}_info.json".replace(" ", "_").replace("/", "_").replace("?","_")
                 filepath = os.path.join("raw_jason", filename)
+                if os.path.exists(filepath):
+                        print(f"Artist's File already exists: {filepath}")
+                        continue
                 print(f"Retry successful for {main_artist}")
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)

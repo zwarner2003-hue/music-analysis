@@ -5,3 +5,4 @@ __pycache__/
 *.code-workspace
 testingdata
 raw_jason/
+sql_tests/
