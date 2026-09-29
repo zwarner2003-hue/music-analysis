@@ -24,7 +24,7 @@ LIMIT 5;
 """).df()
 
 st.subheader("Most Controversial Songs")
-st.dataframe(disparity, hide_index= True,
+st.dataframe(disparity, hide_index= True, width="stretch",
              column_config = {
                  "song_title": "Song Title",
                  "artist_name": "Artist",
@@ -68,19 +68,20 @@ fig.update_layout(
     coloraxis_showscale= False
 )
 fig.update_yaxes(autorange="reversed")
-st.plotly_chart(fig, use_container_width= True)
+st.plotly_chart(fig, width="stretch")
 
 pop_songs = duckdb_conn.sql("""
 SELECT
     tracks.song_title,
     artists.artist_name,
-    AVG(rating) as average_rating
+    AVG(rating) as average_rating,
+    ratings.submitter
 FROM ratings
 JOIN tracks
     ON ratings.track_id = tracks.track_id
 JOIN artists
-    ON artists.artist_id = tracks.track_id
-GROUP BY song_title, artists.artist_name
+    ON artists.artist_id = tracks.artist_id
+GROUP BY song_title, artists.artist_name, ratings.submitter
 ORDER BY
     average_rating Desc,
     song_title
@@ -88,11 +89,11 @@ LIMIT 10
 """).df()
 
 st.subheader("Highest Rated Songs")
-st.dataframe(pop_songs , hide_index= True,
+st.dataframe(pop_songs , hide_index= True, width="stretch",
             column_config = {
                 "song_title": "Song TItle",
                 "artist_name":"Artist",
-                "average_rating":"Average Rating"
+                "average_rating": st.column_config.NumberColumn("Average Rating", format="%.2f ★")
             })
 
 
@@ -124,15 +125,30 @@ ORDER BY
     clean_genre
 
 """).df()
-
+best_genre['clean_genre'] = best_genre['clean_genre'].str.title()
 st.subheader("What's Everyone's Favourite Genre")
-st.dataframe(best_genre, hide_index= True,
-             column_config= {
-                "rater": "Rated By",
-                "clean_genre":"Genre",
-                 "avg_rating":"Average Rating",
-                 "rating_count":"Times Rated"
-             })
+
+raters = best_genre['rater'].unique()
+
+cols = st.columns(len(raters))
+
+for col, rater in zip(cols, raters):
+    with col:
+        st.markdown(f"### {rater}")
+        person_df = best_genre[best_genre['rater'] == rater][['clean_genre', 'avg_rating', 'rating_count']]
+        st.dataframe(
+            person_df,
+            hide_index=True,
+            width="stretch",
+            column_config={
+                "clean_genre": "Genre",
+                "avg_rating": st.column_config.NumberColumn("Avg. Rat.", format="%.2f ★"),
+                "rating_count": "Freq."
+            }
+        )
+
+
+
 
 other_genre = duckdb_conn.sql("""
 WITH unnest_genres AS (
@@ -158,15 +174,31 @@ ORDER BY
     clean_genre
 LIMIT 5
 """).df()
-
-st.subheader("Which Genre Is The Best?")
-st.dataframe(other_genre, hide_index= True,
+other_genre['clean_genre'] = other_genre['clean_genre'].str.title()
+st.subheader("Which Genre Is Highest Rated?")
+st.dataframe(other_genre, hide_index= True, width="stretch",
              column_config= {
                 "rater": "Rated By",
                 "clean_genre":"Genre",
-                 "avg_rating":"Average Rating",
+                 "avg_rating": st.column_config.NumberColumn("Average Rating", format="%.2f ★"),
                  "rating_count":"Times Rated"
              })
 
 
+strictness = duckdb_conn.sql("""
+SELECT
+    rater AS "Critic",
+    ROUND(AVG(rating),2) as "Average Rating"
+FROM ratings 
+GROUP BY "Critic"
+ORDER BY "Average Rating" Asc
+""").df()
 
+st.subheader("Who Is The Hardest To Impress?")
+cols = st.columns(len(strictness))
+
+for col, (_, row) in zip(cols, strictness.iterrows()):
+    col.metric(
+        label=row["Critic"],
+        value=f"{row['Average Rating']:.2f} ★"
+    )
