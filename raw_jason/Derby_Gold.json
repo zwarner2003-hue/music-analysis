@@ -1,0 +1,45 @@
+{
+    "track": {
+        "name": "Gold",
+        "mbid": "5908f78d-a4e2-4015-87ed-5bacd02f3622",
+        "url": "https://www.last.fm/music/Derby/_/Gold",
+        "duration": "180000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "27542",
+        "playcount": "228667",
+        "artist": {
+            "name": "Derby",
+            "mbid": "9e0400ed-7005-4ba0-a5d8-227b7c643b44",
+            "url": "https://www.last.fm/music/Derby"
+        },
+        "album": {
+            "artist": "Derby",
+            "title": "Gold",
+            "url": "https://www.last.fm/music/Derby/Gold",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ec15fe25df9a1172ebbb6361cf0633db.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ec15fe25df9a1172ebbb6361cf0633db.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec15fe25df9a1172ebbb6361cf0633db.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ec15fe25df9a1172ebbb6361cf0633db.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

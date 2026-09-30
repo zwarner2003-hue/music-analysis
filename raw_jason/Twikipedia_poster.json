@@ -1,0 +1,44 @@
+{
+    "track": {
+        "name": "poster",
+        "url": "https://www.last.fm/music/twikipedia/_/poster",
+        "duration": "123000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "33400",
+        "playcount": "646372",
+        "artist": {
+            "name": "twikipedia",
+            "mbid": "1243864e-3fc1-4c44-af19-2333d6ade559",
+            "url": "https://www.last.fm/music/twikipedia"
+        },
+        "album": {
+            "artist": "twikipedia",
+            "title": "chronic",
+            "url": "https://www.last.fm/music/twikipedia/chronic",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/df57db56f26f02d46f9a8442abe876d7.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/df57db56f26f02d46f9a8442abe876d7.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/df57db56f26f02d46f9a8442abe876d7.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/df57db56f26f02d46f9a8442abe876d7.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

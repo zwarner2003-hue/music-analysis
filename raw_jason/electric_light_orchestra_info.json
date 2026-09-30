@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "Electric Light Orchestra",
+        "mbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
+        "url": "https://www.last.fm/music/Electric+Light+Orchestra",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "3120232",
+            "playcount": "81340990"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Jeff Lynne",
+                    "url": "https://www.last.fm/music/Jeff+Lynne",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Supertramp",
+                    "url": "https://www.last.fm/music/Supertramp",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Move",
+                    "url": "https://www.last.fm/music/The+Move",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Alan Parsons Project",
+                    "url": "https://www.last.fm/music/The+Alan+Parsons+Project",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Traveling Wilburys",
+                    "url": "https://www.last.fm/music/Traveling+Wilburys",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "classic rock",
+                    "url": "https://www.last.fm/tag/classic+rock"
+                },
+                {
+                    "name": "Progressive rock",
+                    "url": "https://www.last.fm/tag/Progressive+rock"
+                },
+                {
+                    "name": "rock",
+                    "url": "https://www.last.fm/tag/rock"
+                },
+                {
+                    "name": "70s",
+                    "url": "https://www.last.fm/tag/70s"
+                },
+                {
+                    "name": "british",
+                    "url": "https://www.last.fm/tag/british"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/Electric+Light+Orchestra/+wiki"
+                }
+            },
+            "published": "13 Feb 2006, 09:41",
+            "summary": "Electric Light Orchestra (ELO) are an English rock band formed in Birmingham in 1970 by Jeff Lynne, Roy Wood and Bev Bevan. Their music combines rock and pop with orchestral and classical influences. During the group's original period of activity, Lynne served as principal songwriter, producer and creative leader following Wood's departure in 1972. Lynne and Bevan were the only constant members throughout the band's first run from 1970 to 1986.\n\nThe band's name refers both to electric light and to \"light orchestral music\" <a href=\"https://www.last.fm/music/Electric+Light+Orchestra\">Read more on Last.fm</a>",
+            "content": "Electric Light Orchestra (ELO) are an English rock band formed in Birmingham in 1970 by Jeff Lynne, Roy Wood and Bev Bevan. Their music combines rock and pop with orchestral and classical influences. During the group's original period of activity, Lynne served as principal songwriter, producer and creative leader following Wood's departure in 1972. Lynne and Bevan were the only constant members throughout the band's first run from 1970 to 1986.\n\nThe band's name refers both to electric light and to \"light orchestral music\", a style popular on British radio during the mid-20th century. ELO emerged from members of the Move, with Wood and Lynne seeking to combine contemporary rock music with orchestral instrumentation. Throughout the 1970s and early 1980s, the band achieved international commercial success with a series of successful albums and singles. Their best-selling album was the double album \"Out of the Blue\" (1977). Two of their albums reached number one on the UK Albums Chart: \"Discovery\" (1979) and \"Time\" (1981).\n\nFollowing the band's dissolution in 1986, Bevan formed ELO Part II in 1989. The group later evolved into The Orchestra after Bevan's departure in 1999. Lynne briefly revived ELO between 2000 and 2001 before reactivating the project in 2014 under the name Jeff Lynne's ELO, with longtime keyboardist Richard Tandy. After Tandy's death in 2024, Lynne remained the sole continuing member associated with the name. ELO embarked on a farewell tour in 2024.\n\nDuring their original recording and touring career, ELO sold more than 50 million records worldwide. Between 1972 and 1986, the band achieved 27 Top 40 singles in the United Kingdom and 15 Top 20 singles on the US Billboard Hot 100. In 2017, Roy Wood, Jeff Lynne, Bev Bevan and Richard Tandy were inducted into the Rock and Roll Hall of Fame.\n\nThe origins of ELO can be traced to Roy Wood's ambition to expand rock music through the use of orchestral instruments such as violins, cellos and woodwinds. Jeff Lynne joined the Move in 1970 after previously leading the Idle Race. The first ELO recording, \"10538 Overture\", was developed during sessions involving members of the Move and became the band's first major success, reaching the UK Top 10.\n\nThe debut album, \"The Electric Light Orchestra\", was released in 1971. In the United States it appeared under the title \"No Answer\", reportedly resulting from a misunderstanding during communication between record companies. During this period, the Move and ELO coexisted, with recordings and performances by both groups overlapping.\n\nFollowing the release of the debut album, Roy Wood departed to form Wizzard. Jeff Lynne assumed leadership of ELO, joined by musicians including Richard Tandy, Mike Edwards, Wilfred Gibson, Colin Walker and Mike de Albuquerque. The group's second album, \"ELO 2\" (1973), featured a successful adaptation of Chuck Berry's \"Roll Over Beethoven\", which became ELO's first charting single in the United States.\n\nPersonnel changes continued during the recording of \"On the Third Day\" (1973), with Mik Kaminski joining on violin and Hugh McDowell later returning on cello. The album included the single \"Showdown\", which further increased the band's international profile.\n\nA major breakthrough came with \"Eldorado\" (1974), a concept album centred on fantasy and escapism. It became ELO's first gold-certified album in the United States and included the hit single \"Can't Get It Out of My Head\". Around this period, Kelly Groucutt joined as bassist and vocalist, while Melvyn Gale replaced Mike Edwards on cello.\n\nThe albums \"Face the Music\" (1975) and \"A New World Record\" (1976) established ELO as a major international act. Successful singles from this era included \"Evil Woman\", \"Strange Magic\", \"Livin' Thing\", \"Telephone Line\", \"Rockaria!\" and \"Do Ya\". The band also developed a reputation for large-scale touring productions.\n\nELO's commercial peak came with \"Out of the Blue\" (1977), which produced several hit singles including \"Turn to Stone\", \"Sweet Talkin' Woman\", \"Mr. Blue Sky\" and \"Wild West Hero\". The accompanying world tour featured elaborate stage designs, including a large spaceship-themed set.\n\nIn 1979, ELO released \"Discovery\", which reached number one in the United Kingdom. The album incorporated disco influences and included the hit singles \"Don't Bring Me Down\", \"Shine a Little Love\", \"Last Train to London\", \"Confusion\" and \"The Diary of Horace Wimp\".\n\nIn 1980, Jeff Lynne contributed songs performed by ELO to the soundtrack of the film \"Xanadu\". Although the film received a mixed commercial and critical response, the soundtrack was highly successful. Singles associated with the project included \"I'm Alive\", \"All Over the World\", \"Don't Walk Away\" and the title track \"Xanadu\", which became ELO's only UK number one single.\n\nThe album \"Time\" (1981) marked a shift towards a more synthesiser-driven sound and featured a science-fiction concept. It topped the UK Albums Chart and produced singles including \"Hold On Tight\", \"Twilight\", \"The Way Life's Meant to Be\", \"Here Is the News\" and \"Ticket to the Moon\". The subsequent tour was ELO's last major world tour of the original era.\n\nJeff Lynne initially intended \"Secret Messages\" (1983) to be a double album, but it was released as a single disc. Although it reached the UK Top 5, Lynne became increasingly focused on production work outside the band. During this period he collaborated with artists including Dave Edmunds, the Everly Brothers and Agnetha Fältskog.\n\nELO's final studio album of the original period, \"Balance of Power\", was released in 1986. The record continued the band's electronic direction and included the single \"Calling America\". After a limited number of live performances in 1986, the group effectively ceased activity.\n\nIn 1989, Bev Bevan launched ELO Part II, initially featuring Louis Clark and later joined by former ELO members including Mik Kaminski, Kelly Groucutt and Hugh McDowell. The group released \"Electric Light Orchestra Part Two\" (1991) and \"Moment of Truth\" (1994). Following Bevan's retirement and sale of his share of the ELO name to Jeff Lynne, the remaining members continued under the name The Orchestra.\n\nJeff Lynne revived ELO in 2001 with the album \"Zoom\". Although marketed as an ELO release, it featured only limited participation from Richard Tandy among former members. Guest musicians included George Harrison and Ringo Starr. Plans for a supporting tour were announced but later cancelled.\n\nDuring the 2000s and early 2010s, ELO's catalogue was extensively reissued, often with bonus tracks and previously unreleased material. Lynne and Tandy occasionally reunited for performances and television appearances.\n\nIn 2014, Jeff Lynne and Richard Tandy returned to the stage under the name Jeff Lynne's ELO. A performance at London's Hyde Park attracted significant public interest and led to further touring activity. In 2015, the group released \"Alone in the Universe\", ELO's first album of new material since \"Zoom\". This was followed by extensive touring and appearances at events including the Grammy Awards and the Glastonbury Festival.\n\nJeff Lynne's ELO released \"From Out of Nowhere\" in 2019. Planned touring activities in 2020 were cancelled because of the COVID-19 pandemic. In 2024, the group announced the \"Over and Out Tour\" as a farewell tour. Richard Tandy died in May 2024 at the age of 76. Plans for a final farewell concert in London's Hyde Park in July 2025 were later cancelled due to illness affecting Lynne.\n\nElectric Light Orchestra are regarded as one of the most commercially successful British rock bands of the 1970s and early 1980s. Their music is noted for integrating orchestral arrangements with rock and pop songwriting, and songs such as \"Mr. Blue Sky\", \"Livin' Thing\", \"Telephone Line\" and \"Don't Bring Me Down\" remain among their best-known recordings.\n\nFull Wikipedia article: https://en.wikipedia.org/wiki/Electric_Light_Orchestra\n\nStudio albums\nThe Electric Light Orchestra (1971)\nELO 2 (1973)\nOn the Third Day (1973)\nEldorado (1974)\nFace the Music (1975)\nA New World Record (1976)\nOut of the Blue (1977)\nDiscovery (1979)\nTime (1981) (as ELO)\nSecret Messages (1983)\nBalance of Power (1986)\nZoom (2001)\nAlone in the Universe (2015) (as Jeff Lynne's ELO)\nFrom Out of Nowhere (2019) (as Jeff Lynne's ELO) <a href=\"https://www.last.fm/music/Electric+Light+Orchestra\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

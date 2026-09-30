@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "Simple Plan",
+        "mbid": "b345af35-205e-4eca-8006-029e5c20127e",
+        "url": "https://www.last.fm/music/Simple+Plan",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "1",
+        "stats": {
+            "listeners": "2869802",
+            "playcount": "81964083"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Good Charlotte",
+                    "url": "https://www.last.fm/music/Good+Charlotte",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "All Time Low",
+                    "url": "https://www.last.fm/music/All+Time+Low",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Bowling for Soup",
+                    "url": "https://www.last.fm/music/Bowling+for+Soup",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Boys Like Girls",
+                    "url": "https://www.last.fm/music/Boys+Like+Girls",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sum 41",
+                    "url": "https://www.last.fm/music/Sum+41",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "pop punk",
+                    "url": "https://www.last.fm/tag/pop+punk"
+                },
+                {
+                    "name": "punk rock",
+                    "url": "https://www.last.fm/tag/punk+rock"
+                },
+                {
+                    "name": "rock",
+                    "url": "https://www.last.fm/tag/rock"
+                },
+                {
+                    "name": "punk",
+                    "url": "https://www.last.fm/tag/punk"
+                },
+                {
+                    "name": "emo",
+                    "url": "https://www.last.fm/tag/emo"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/Simple+Plan/+wiki"
+                }
+            },
+            "published": "12 Feb 2006, 06:22",
+            "summary": "Simple Plan is a Canadian rock band formed in Montreal, Quebec, in 1999. The current line-up consists of Pierre Bouvier (lead vocals, studio bass guitar), Chuck Comeau (drums), Jeff Stinco (lead guitar), and Sébastien Lefebvre (rhythm guitar, backing vocals). Former bassist David Desrosiers was a member of the band from 2000 until 2020.\n\nSimple Plan has released six studio albums: \"No Pads, No Helmets...Just Balls\" (2002), \"Still Not Getting Any. <a href=\"https://www.last.fm/music/Simple+Plan\">Read more on Last.fm</a>",
+            "content": "Simple Plan is a Canadian rock band formed in Montreal, Quebec, in 1999. The current line-up consists of Pierre Bouvier (lead vocals, studio bass guitar), Chuck Comeau (drums), Jeff Stinco (lead guitar), and Sébastien Lefebvre (rhythm guitar, backing vocals). Former bassist David Desrosiers was a member of the band from 2000 until 2020.\n\nSimple Plan has released six studio albums: \"No Pads, No Helmets...Just Balls\" (2002), \"Still Not Getting Any...\" (2004), \"Simple Plan\" (2008), \"Get Your Heart On!\" (2011), \"Taking One for the Team\" (2016), and \"Harder Than It Looks\" (2022). The band has also released the EP \"Get Your Heart On - The Second Coming!\" (2013), as well as the live albums \"Live in Japan 2002\" (2003) and \"MTV Hard Rock Live\" (2005).\n\nThe band performed regularly on the Vans Warped Tour between 1999 and 2005 and returned for selected editions in 2011, 2013, 2015, and 2018. Other notable appearances include the closing ceremony of the 2010 Winter Olympics in Vancouver, performances connected with \"The X Factor Australia\", and a concert at Mood Indigo, the annual cultural festival of the Indian Institute of Technology Bombay, in 2012. In 2004, the band appeared as themselves in the film \"New York Minute\". They also performed \"O Canada\" at the 2016 NHL Winter Classic and recorded the theme song for the animated television series \"What's New, Scooby-Doo?\", in which they also appeared as guest characters.\n\nBefore forming Simple Plan, Pierre Bouvier and Chuck Comeau co-founded the Canadian punk rock band Reset in 1993. The group's original line-up included Bouvier, Philippe Jolicoeur, Comeau, and Jean-Sébastien Boileau. After releasing the album \"No Worries\" in 1997, Reset underwent line-up changes. Comeau left the band in 1998, citing dissatisfaction with its musical direction and to pursue further education.\n\nIn 1999, Comeau joined forces with high-school friends Jeff Stinco and Sébastien Lefebvre to form a new band. Later that year, Bouvier left Reset and joined the project. David Desrosiers subsequently became the group's bassist, allowing Bouvier to focus on lead vocals. The name Simple Plan was reportedly inspired by the 1998 film \"A Simple Plan\", itself based on the 1993 novel by Scott B. Smith.\n\nAfter performing at events including Edgefest and the Warped Tour, Simple Plan signed with Atlantic Records in 2001 and began recording its debut album with producer Arnold Lanni.\n\nThe band's debut album, \"No Pads, No Helmets...Just Balls\", was released in 2002. It featured the singles \"I'm Just a Kid\", \"I'd Do Anything\", \"Addicted\", and \"Perfect\". Guest appearances included Mark Hoppus of Blink-182 and Joel Madden of Good Charlotte. The album achieved international commercial success, selling more than four million copies worldwide. During this period, the band also recorded and performed the theme song for \"What's New, Scooby-Doo?\" and appeared in an episode of the series.\n\nSimple Plan toured extensively in support of the album, including appearances on the Warped Tour and tours with artists such as Avril Lavigne, Green Day, and Good Charlotte. In 2003, the band appeared in the comedy-horror film \"Punk Rock Holocaust\".\n\nThe second album, \"Still Not Getting Any...\", was released in 2004 and produced by Bob Rock. Singles included \"Welcome to My Life\", \"Shut Up\", \"Untitled (How Could This Happen to Me?)\", \"Crazy\", and \"Perfect World\". The album incorporated elements beyond the band's earlier pop-punk sound and achieved international chart success. In 2005, the band's cover of Cheap Trick's \"Surrender\" appeared on the soundtrack of the film \"Fantastic Four\".\n\nFollowing extensive touring, the band began work on its third album in 2006. The self-titled album \"Simple Plan\" was released in 2008 and produced by Dave Fortman and Max Martin. Its lead single, \"When I'm Gone\", became the band's highest-charting single in the United Kingdom at the time. The album was supported by an extensive international touring schedule, including major festival appearances and a Canada Day concert in Quebec City attended by approximately 150,000 people.\n\nThe fourth studio album, \"Get Your Heart On!\", was released in 2011. It featured collaborations with artists including Rivers Cuomo, Marie-Mai, Natasha Bedingfield, K'naan, and Alex Gaskarth. The single \"Jet Lag\" was released in both English and French versions. During the album cycle, the band toured internationally and performed with the Montreal Symphony Orchestra at a charity event that raised funds for children's causes. The companion EP \"Get Your Heart On - The Second Coming!\" followed in 2013.\n\nWork on the band's fifth album began in 2014. The album, \"Taking One for the Team\", was released in 2016 and included the singles \"Boom\", \"I Don't Wanna Be Sad\", \"I Don't Wanna Go to Bed\", \"Opinion Overload\", and \"Singing in the Rain\". The album was supported by international touring, and the band again performed at the NHL Winter Classic in 2016.\n\nIn 2017, Simple Plan embarked on a tour celebrating the 15th anniversary of \"No Pads, No Helmets...Just Balls\", performing the album in full. Between 2017 and 2019, David Desrosiers was absent from touring activities while recovering from depression, with touring musician Chady Awad filling in on bass. Desrosiers returned in 2019.\n\nThe band released the collaborative single \"Where I Belong\" with State Champs and We the Kings in 2019. In 2020, Desrosiers left the band following allegations of sexual misconduct. Shortly afterwards, touring bassist Chady Awad also departed following separate allegations.\n\nIn 2021, Simple Plan re-recorded the \"What's New, Scooby-Doo?\" theme song and released \"The Antidote\", the lead single from its sixth studio album. \"Harder Than It Looks\" was released in 2022 as the band's first independently released studio album, distributed by The Orchard. Additional singles included \"Ruin My Life\", featuring Deryck Whibley of Sum 41, \"Congratulations\", and \"Wake Me Up (When This Nightmare's Over)\". The album entered several Billboard charts in Canada and the United States. The band supported the release with the \"Blame Canada\" tour alongside Sum 41.\n\nIn 2022 and 2023, Simple Plan released updated versions of earlier songs, including \"I'm Just a Kid\" featuring LØLØ and \"Iconic\" featuring Jax. The band also toured extensively with acts such as Sum 41, The Offspring, Avril Lavigne, Boys Like Girls, and We the Kings.\n\nIn 2024, the band performed at festivals and headlined tours across Europe, the United Kingdom, Australia, and South America. It also released a pop-punk cover of Elton John's \"Can You Feel the Love Tonight\" for the Disney tribute album \"A Whole New Sound\". To mark its 25th anniversary, the band issued a limited-edition box set containing all six studio albums. During the same year, the band announced that a documentary about its history was in production.\n\nIn 2025, Simple Plan announced the \"Bigger Than You Think!\" anniversary tour of the United States with support from 3OH!3, Bowling for Soup, and LØLØ. The band also appeared on Avril Lavigne's single \"Young & Dumb\", a song inspired by their early touring experiences together. In July 2025, the documentary \"Simple Plan: The Kids in the Crowd\" was released, accompanied by a soundtrack album featuring archival material and the previously unreleased song \"Nothing Changes\".\n\nThe band has announced further touring activity in North America and Europe for 2026, including appearances at major rock festivals and a European tour covering more than 20 countries.\n\nFull Wikipedia article: https://en.wikipedia.org/wiki/Simple_Plan\n\nStudio albums\nNo Pads, No Helmets...Just Balls (2002)\nStill Not Getting Any... (2004)\nSimple Plan (2008)\nGet Your Heart On! (2011)\nTaking One for the Team (2016)\nHarder Than It Looks (2022) <a href=\"https://www.last.fm/music/Simple+Plan\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

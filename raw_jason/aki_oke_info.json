@@ -1,0 +1,207 @@
+{
+    "artist": {
+        "name": "Aki Oke",
+        "url": "https://www.last.fm/music/Aki+Oke",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "1",
+        "stats": {
+            "listeners": "11032",
+            "playcount": "44232"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Your Mate's Ex",
+                    "url": "https://www.last.fm/music/Your+Mate%27s+Ex",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Paris Prestige",
+                    "url": "https://www.last.fm/music/Paris+Prestige",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Human Family",
+                    "url": "https://www.last.fm/music/Human+Family",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "fromclay",
+                    "url": "https://www.last.fm/music/fromclay",
+                    "image": [
+                        {
+                            "#text": "",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "New spectrum",
+                    "url": "https://www.last.fm/music/New+spectrum",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": []
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/Aki+Oke/+wiki"
+                }
+            },
+            "published": "01 Jan 1970, 00:00",
+            "summary": " <a href=\"https://www.last.fm/music/Aki+Oke\">Read more on Last.fm</a>",
+            "content": ""
+        }
+    }
+}

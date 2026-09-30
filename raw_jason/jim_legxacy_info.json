@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "Jim Legxacy",
+        "mbid": "9ca998cf-c1cd-493b-9a5d-a32fd33859ea",
+        "url": "https://www.last.fm/music/Jim+Legxacy",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "250371",
+            "playcount": "11777510"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Fimiguerrero",
+                    "url": "https://www.last.fm/music/Fimiguerrero",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Ledbyher",
+                    "url": "https://www.last.fm/music/Ledbyher",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Quadeca",
+                    "url": "https://www.last.fm/music/Quadeca",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "fakemink",
+                    "url": "https://www.last.fm/music/fakemink",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "matt proxy",
+                    "url": "https://www.last.fm/music/matt+proxy",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "emo rap",
+                    "url": "https://www.last.fm/tag/emo+rap"
+                },
+                {
+                    "name": "british",
+                    "url": "https://www.last.fm/tag/british"
+                },
+                {
+                    "name": "Jerk",
+                    "url": "https://www.last.fm/tag/Jerk"
+                },
+                {
+                    "name": "hip hop",
+                    "url": "https://www.last.fm/tag/hip+hop"
+                },
+                {
+                    "name": "lowend",
+                    "url": "https://www.last.fm/tag/lowend"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/Jim+Legxacy/+wiki"
+                }
+            },
+            "published": "23 Jul 2024, 07:13",
+            "summary": "James Folorunso Ifeanyi Olaloye (born June 8th, 1999), professionally known as Jim Legxacy, is a British recording artist and producer from Lewisham, South East London.\n\nLegxacy started his music career in 2017, after he built up his reputation after a Mixtape Madness feature and dropping tracks on SoundCloud. In 2019, Legxacy dropped his independent debut EP Dynasty Program: A Metrical Composition Inspired by the Nights Spent As the Raiider. The EP has been streamed over 100,000 plays in Spotify. <a href=\"https://www.last.fm/music/Jim+Legxacy\">Read more on Last.fm</a>",
+            "content": "James Folorunso Ifeanyi Olaloye (born June 8th, 1999), professionally known as Jim Legxacy, is a British recording artist and producer from Lewisham, South East London.\n\nLegxacy started his music career in 2017, after he built up his reputation after a Mixtape Madness feature and dropping tracks on SoundCloud. In 2019, Legxacy dropped his independent debut EP Dynasty Program: A Metrical Composition Inspired by the Nights Spent As the Raiider. The EP has been streamed over 100,000 plays in Spotify.\n\nAfter the release of his debut EP, Legxacy has teased his fans with the promise of new music, only fuelling the hype for more new music to come soon. Equate Magazine asked on how he got the “Legxacy” name from and stated.\n\nTo be honest, I actually can never remember why I called myself that, it felt good at the time. The word ‘legacy’ feels empowering when you hear it, I think something about the name reminds me that I’m here to leave something bigger, you know?.\n\nIn December 2021, he dropped his second EP CITADEL, expanding his sound genre in music to new heights, tackling lyrical themes and concepts in a refreshing honest and introspective manner. The EP is about his life and the inspiration came from real life things of films, video games, and graphic novels.\n\nSince 2023, he has dropped his debut mixtape homeless nigga pop music or also known as HNPM. He has dropped four singles in 2022 like “eye tell (!)”, “hit it light it twist it”, “candy reign (!)”, and “dj” before the release of the mixtape. Pitchfork has rated the mixtape a 7.8. He has also co-produced a song for British rappers Dave and Central Cee of their single “Sprinter”. The single has reached at Number 1 on the UK Singles Charts, with 108,200 combined chart sales and 13.4 million streams – being the biggest first week streams for a rap song in UK history, alongside breaking the record for the most streamed hip-hop song in UK Spotify history. The single has been certified 2x platinum by British Phonographic Industry (BPI) in December 2023 and platinum by Recording Industry Association of America (RIAA) in September 2024.\n\nIn 2025, Legxacy dropped his first debut studio album, \"black british music (2025)\", which was released on July 18th. <a href=\"https://www.last.fm/music/Jim+Legxacy\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

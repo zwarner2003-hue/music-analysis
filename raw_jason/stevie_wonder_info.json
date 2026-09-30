@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "Stevie Wonder",
+        "mbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+        "url": "https://www.last.fm/music/Stevie+Wonder",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "1",
+        "stats": {
+            "listeners": "4096535",
+            "playcount": "118075809"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Marvin Gaye",
+                    "url": "https://www.last.fm/music/Marvin+Gaye",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Donny Hathaway",
+                    "url": "https://www.last.fm/music/Donny+Hathaway",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Earth, Wind & Fire",
+                    "url": "https://www.last.fm/music/Earth,+Wind+&+Fire",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Jackson 5",
+                    "url": "https://www.last.fm/music/The+Jackson+5",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Prince",
+                    "url": "https://www.last.fm/music/Prince",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "soul",
+                    "url": "https://www.last.fm/tag/soul"
+                },
+                {
+                    "name": "funk",
+                    "url": "https://www.last.fm/tag/funk"
+                },
+                {
+                    "name": "motown",
+                    "url": "https://www.last.fm/tag/motown"
+                },
+                {
+                    "name": "pop",
+                    "url": "https://www.last.fm/tag/pop"
+                },
+                {
+                    "name": "rnb",
+                    "url": "https://www.last.fm/tag/rnb"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/Stevie+Wonder/+wiki"
+                }
+            },
+            "published": "13 Feb 2006, 12:32",
+            "summary": "Stevland Hardaway Morris (born Judkins; 13 May 1950), known professionally as Stevie Wonder, is an American singer-songwriter, musician and record producer. He is regarded as one of the most influential musicians of the 20th century and has been cited as a pioneer across genres including R&B, pop, soul, gospel, funk and jazz. During his peak years, Wonder often functioned as a largely self-contained performer, and his use of synthesizers and other <a href=\"https://www.last.fm/music/Stevie+Wonder\">Read more on Last.fm</a>",
+            "content": "Stevland Hardaway Morris (born Judkins; 13 May 1950), known professionally as Stevie Wonder, is an American singer-songwriter, musician and record producer. He is regarded as one of the most influential musicians of the 20th century and has been cited as a pioneer across genres including R&B, pop, soul, gospel, funk and jazz. During his peak years, Wonder often functioned as a largely self-contained performer, and his use of synthesizers and other electronic instruments in the 1970s contributed to changes in the sound and production of contemporary R&B. His work also helped establish the album as a cohesive artistic format, often incorporating socially conscious themes and complex musical arrangements.\n\nBlind from shortly after his birth, Wonder was identified as a child prodigy and signed to Motown’s Tamla label at the age of 11, where he was given the name Little Stevie Wonder. As a teenager, he became one of Motown’s most successful artists, known for his harmonica playing and vocal style on songs such as \"Uptight (Everything's Alright)\", \"I Was Made to Love Her\", \"For Once in My Life\" and \"My Cherie Amour\". His single \"Fingertips\" reached number one on the Billboard Hot 100 in 1963, making him the youngest solo artist to achieve this at the age of 13. His most critically and commercially successful period, often referred to as his \"classic period\" (1972–1976), began with \"Music of My Mind\" and \"Talking Book\" (1972), which marked a shift away from the Motown sound towards a style centred on keyboards and synthesizers. With \"Innervisions\" (1973), \"Fulfillingness' First Finale\" (1974) and \"Songs in the Key of Life\" (1976), he became the first Black artist to win the Grammy Award for Album of the Year and remains the only artist to have won the award with three consecutive album releases.\n\nDuring the 1980s, Wonder maintained a prominent international presence through musical collaborations, including work with Paul McCartney and Michael Jackson, as well as television appearances and involvement in charitable and political causes. He campaigned for the establishment of a federal holiday in the United States in honour of Martin Luther King Jr. Albums such as \"Hotter Than July\" (1980), \"The Woman in Red\" (1984) and \"In Square Circle\" (1985) reached the top five of the Billboard 200. Singles including \"Ebony and Ivory\", \"I Just Called to Say I Love You\", \"Part-Time Lover\" and \"That's What Friends Are For\" all reached number one on the Billboard Hot 100, making him the first artist to top the chart in three consecutive decades. He returned to the top five with \"A Time to Love\" (2005) and has remained active in music and public life.\n\nWonder is among the best-selling music artists, with sales exceeding 100 million records worldwide. He has received 25 Grammy Awards, the most awarded to a male solo artist, as well as an Academy Award. He has been inducted into the Rhythm and Blues Music Hall of Fame, the Rock and Roll Hall of Fame and the Songwriters Hall of Fame. He has ranked highly in lists of the greatest singers and songwriters published by Rolling Stone. In 2009, he was appointed a United Nations Messenger of Peace, and in 2014 he received the Presidential Medal of Freedom. In 2024, he was granted Ghanaian citizenship, reflecting his stated belief in his Ghanaian ancestry.\n\nStudio albums\nThe Jazz Soul of Little Stevie (1962)\nTribute to Uncle Ray (1962)\nWith a Song in My Heart (1963)\nStevie at the Beach (1964)\nUp-Tight (1966)\nDown to Earth (1966)\nI Was Made to Love Her (1967)\nSomeday at Christmas (1967)\nEivets Rednow (1968)\nFor Once in My Life (1968)\nMy Cherie Amour (1969)\nSigned, Sealed & Delivered (1970)\nWhere I'm Coming From (1971)\nMusic of My Mind (1972)\nTalking Book (1972)\nInnervisions (1973)\nFulfillingness' First Finale (1974)\nSongs in the Key of Life (1976)\nJourney Through the Secret Life of Plants (1979)\nHotter Than July (1980)\nThe Woman in Red (1984)\nIn Square Circle (1985)\nCharacters (1987)\nJungle Fever (1991)\nConversation Peace (1995)\nA Time to Love (2005) <a href=\"https://www.last.fm/music/Stevie+Wonder\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

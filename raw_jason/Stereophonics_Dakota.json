@@ -1,0 +1,71 @@
+{
+    "track": {
+        "name": "Dakota",
+        "mbid": "0039ad3a-c9d1-450b-ba91-fb6a8f75ccee",
+        "url": "https://www.last.fm/music/Stereophonics/_/Dakota",
+        "duration": "297000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "853585",
+        "playcount": "7279864",
+        "artist": {
+            "name": "Stereophonics",
+            "mbid": "0bfba3d3-6a04-4779-bb0a-df07df5b0558",
+            "url": "https://www.last.fm/music/Stereophonics"
+        },
+        "album": {
+            "artist": "Stereophonics",
+            "title": "Language. Sex. Violence. Other?",
+            "url": "https://www.last.fm/music/Stereophonics/Language.+Sex.+Violence.+Other%3F",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/164ab68b99b562334507249ec7ca3366.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/164ab68b99b562334507249ec7ca3366.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/164ab68b99b562334507249ec7ca3366.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/164ab68b99b562334507249ec7ca3366.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": [
+                {
+                    "name": "rock",
+                    "url": "https://www.last.fm/tag/rock"
+                },
+                {
+                    "name": "indie",
+                    "url": "https://www.last.fm/tag/indie"
+                },
+                {
+                    "name": "indie rock",
+                    "url": "https://www.last.fm/tag/indie+rock"
+                },
+                {
+                    "name": "britpop",
+                    "url": "https://www.last.fm/tag/britpop"
+                },
+                {
+                    "name": "alternative",
+                    "url": "https://www.last.fm/tag/alternative"
+                }
+            ]
+        },
+        "wiki": {
+            "published": "10 Oct 2009, 18:32",
+            "summary": "\"Dakota\" is a song by the Welsh band Stereophonics. It was the first single from their fifth studio album Language. Sex. Violence. Other? and was released on February 28, 2005. \n\nIt was the first Stereophonics single to reach #1 on the UK Singles Chart.\n\n\"Dakota\" is also featured in the soundtracks of EA Sports’ FIFA Manager 06 and Konami’s Pro Evolution Soccer 2010. <a href=\"http://www.last.fm/music/Stereophonics/_/Dakota\">Read more on Last.fm</a>.",
+            "content": "\"Dakota\" is a song by the Welsh band Stereophonics. It was the first single from their fifth studio album Language. Sex. Violence. Other? and was released on February 28, 2005. \n\nIt was the first Stereophonics single to reach #1 on the UK Singles Chart.\n\n\"Dakota\" is also featured in the soundtracks of EA Sports’ FIFA Manager 06 and Konami’s Pro Evolution Soccer 2010. <a href=\"http://www.last.fm/music/Stereophonics/_/Dakota\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

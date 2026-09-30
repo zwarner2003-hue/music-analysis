@@ -1,0 +1,45 @@
+{
+    "track": {
+        "name": "Nina Cried Power",
+        "mbid": "088a659f-d021-4316-942a-243bd8e07139",
+        "url": "https://www.last.fm/music/Hozier/_/Nina+Cried+Power",
+        "duration": "225000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "128137",
+        "playcount": "1063744",
+        "artist": {
+            "name": "Hozier",
+            "mbid": "b4691384-50c3-4afd-9988-51d3ec5db65d",
+            "url": "https://www.last.fm/music/Hozier"
+        },
+        "album": {
+            "artist": "Various Artists",
+            "title": "Chill Indie Music",
+            "url": "https://www.last.fm/music/Various+Artists/Chill+Indie+Music",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/c8d589387f48021d00abf07589a8c30a.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/c8d589387f48021d00abf07589a8c30a.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/c8d589387f48021d00abf07589a8c30a.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c8d589387f48021d00abf07589a8c30a.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

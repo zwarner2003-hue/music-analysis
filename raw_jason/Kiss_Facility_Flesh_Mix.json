@@ -1,0 +1,44 @@
+{
+    "track": {
+        "name": "Flesh Mix",
+        "mbid": "713d59e6-0d79-43fe-b7e5-d310fea31bbd",
+        "url": "https://www.last.fm/music/Kiss+Facility/_/Flesh+Mix",
+        "duration": "215000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "19951",
+        "playcount": "85103",
+        "artist": {
+            "name": "Kiss Facility",
+            "url": "https://www.last.fm/music/Kiss+Facility"
+        },
+        "album": {
+            "artist": "Kiss Facility",
+            "title": "Flesh Mix",
+            "url": "https://www.last.fm/music/Kiss+Facility/Flesh+Mix",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/fce3689a895ab7d7d8ae3d20fa6a38a8.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/fce3689a895ab7d7d8ae3d20fa6a38a8.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/fce3689a895ab7d7d8ae3d20fa6a38a8.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fce3689a895ab7d7d8ae3d20fa6a38a8.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "track": {
+        "name": "London i love u but ur bringing me down",
+        "url": "https://www.last.fm/music/Melo+Nada/_/London+i+love+u+but+ur+bringing+me+down",
+        "duration": "180000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "34778",
+        "playcount": "146288",
+        "artist": {
+            "name": "Melo Nada",
+            "url": "https://www.last.fm/music/Melo+Nada"
+        },
+        "album": {
+            "artist": "Melo Nada",
+            "title": "London i love u but ur bringing me down",
+            "url": "https://www.last.fm/music/Melo+Nada/London+i+love+u+but+ur+bringing+me+down",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/4067151aaed267972de36a0173c221fb.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/4067151aaed267972de36a0173c221fb.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/4067151aaed267972de36a0173c221fb.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4067151aaed267972de36a0173c221fb.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

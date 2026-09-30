@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "尾崎豊",
+        "mbid": "6163a297-49b6-4d23-9641-fb3fd462d171",
+        "url": "https://www.last.fm/music/%E5%B0%BE%E5%B4%8E%E8%B1%8A",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "22838",
+            "playcount": "1132776"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "斉藤由貴",
+                    "url": "https://www.last.fm/music/%E6%96%89%E8%97%A4%E7%94%B1%E8%B2%B4",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "サザンオールスターズ",
+                    "url": "https://www.last.fm/music/%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "佐野元春",
+                    "url": "https://www.last.fm/music/%E4%BD%90%E9%87%8E%E5%85%83%E6%98%A5",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "徳永英明",
+                    "url": "https://www.last.fm/music/%E5%BE%B3%E6%B0%B8%E8%8B%B1%E6%98%8E",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "氷室京介",
+                    "url": "https://www.last.fm/music/%E6%B0%B7%E5%AE%A4%E4%BA%AC%E4%BB%8B",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "japanese",
+                    "url": "https://www.last.fm/tag/japanese"
+                },
+                {
+                    "name": "j-pop",
+                    "url": "https://www.last.fm/tag/j-pop"
+                },
+                {
+                    "name": "rock",
+                    "url": "https://www.last.fm/tag/rock"
+                },
+                {
+                    "name": "J-rock",
+                    "url": "https://www.last.fm/tag/J-rock"
+                },
+                {
+                    "name": "male vocalists",
+                    "url": "https://www.last.fm/tag/male+vocalists"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/%E5%B0%BE%E5%B4%8E%E8%B1%8A/+wiki"
+                }
+            },
+            "published": "02 Jul 2006, 03:08",
+            "summary": "1965 - 1992\n\nYutaka Ozaki was a true legend of Japanese music, a rebellious figure who revolutionised J-Pop/Rock, created a string of timeless records and cemented his status by dying a gruesome, untimely death in a Tokyo street at age 26.\n\nHe was born in 1965 in Tokyo`s Setagaya-ku, and debuted in 1983 with the single 「15の夜」 (juu-go no yoru) when he was still a High School Student. This track was the first single from \"SEVENTEEN'S MAP\" 「十七歳の地図」 <a href=\"https://www.last.fm/music/%E5%B0%BE%E5%B4%8E%E8%B1%8A\">Read more on Last.fm</a>",
+            "content": "1965 - 1992\n\nYutaka Ozaki was a true legend of Japanese music, a rebellious figure who revolutionised J-Pop/Rock, created a string of timeless records and cemented his status by dying a gruesome, untimely death in a Tokyo street at age 26.\n\nHe was born in 1965 in Tokyo`s Setagaya-ku, and debuted in 1983 with the single 「15の夜」 (juu-go no yoru) when he was still a High School Student. This track was the first single from \"SEVENTEEN'S MAP\" 「十七歳の地図」, an album unusual in that he wrote and performed all the tracks, but a staggering achievement considering he really was just 17 at the time he wrote it. His youthful experiences are at the heart of the album; most songs concern the stifling circumstances of teenage life, boredom, sexual awakening and the confounding of expectations.  There is a dark, perhaps even desparate, tone to the record that belies the superficially MOR sheen of the production and it is hardly surprising that the record continues to strike a chord with todays teenagers, as well as being held in high esteem by their parents, themselves children of the 80s and victims of the strange days of the economic bubble.\n\nAlthough his first record is his masterpiece, the five that followed are of a similarly high standard, especially 1985s 「回帰線」, which contains 「卒業」, a song about graduation that captures something of the emptiness and dread of post-High School life in Japan.\n\nIn April 1992, he was found naked in a Tokyo street, dead as a result of pulmonary edema. Although this official cause of death has been disputed, and some people believe he was murdered, what is certain is that he had consumed large quantities of drugs and alcohol on the night he died.  A career spanning six albums and only 61 songs was over, but he remains a highly visible figure in Japanese music, his songs are often covered and are karaoke standards, and there are numerous books and tribute albums.\n\nHis most famous songs are 「I LOVE YOU」 and 「卒業」, both of which appear on 「13/71 THE BEST SELECTION」, essential listening for anyone with more than a passing interest in J-Pop or Japanese culture. <a href=\"https://www.last.fm/music/%E5%B0%BE%E5%B4%8E%E8%B1%8A\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

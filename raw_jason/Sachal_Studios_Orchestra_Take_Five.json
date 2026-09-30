@@ -1,0 +1,45 @@
+{
+    "track": {
+        "name": "Take Five",
+        "mbid": "9e0ddb33-de38-4fe8-890d-85aa1df29181",
+        "url": "https://www.last.fm/music/Sachal+Studios+Orchestra/_/Take+Five",
+        "duration": "330000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "2203",
+        "playcount": "7882",
+        "artist": {
+            "name": "Sachal Studios Orchestra",
+            "mbid": "8cbd076a-eb69-466d-b14c-4b503a076e05",
+            "url": "https://www.last.fm/music/Sachal+Studios+Orchestra"
+        },
+        "album": {
+            "artist": "Sachal Studios Orchestra",
+            "title": "Jazz Interpretations of Jazz Standards & Bossa Nova",
+            "url": "https://www.last.fm/music/Sachal+Studios+Orchestra/Jazz+Interpretations+of+Jazz+Standards+&+Bossa+Nova",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/838f4363de47419a886c795e9c2d60b0.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/838f4363de47419a886c795e9c2d60b0.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/838f4363de47419a886c795e9c2d60b0.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/838f4363de47419a886c795e9c2d60b0.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

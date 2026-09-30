@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "Mötley Crüe",
+        "mbid": "26f07661-e115-471d-a930-206f5c89d17c",
+        "url": "https://www.last.fm/music/M%C3%B6tley+Cr%C3%BCe",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "2017789",
+            "playcount": "62272335"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Poison",
+                    "url": "https://www.last.fm/music/Poison",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Ratt",
+                    "url": "https://www.last.fm/music/Ratt",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Skid Row",
+                    "url": "https://www.last.fm/music/Skid+Row",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "L.A. Guns",
+                    "url": "https://www.last.fm/music/L.A.+Guns",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Vince Neil",
+                    "url": "https://www.last.fm/music/Vince+Neil",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "hard rock",
+                    "url": "https://www.last.fm/tag/hard+rock"
+                },
+                {
+                    "name": "heavy metal",
+                    "url": "https://www.last.fm/tag/heavy+metal"
+                },
+                {
+                    "name": "hair metal",
+                    "url": "https://www.last.fm/tag/hair+metal"
+                },
+                {
+                    "name": "80s",
+                    "url": "https://www.last.fm/tag/80s"
+                },
+                {
+                    "name": "rock",
+                    "url": "https://www.last.fm/tag/rock"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/M%C3%B6tley+Cr%C3%BCe/+wiki"
+                }
+            },
+            "published": "17 Feb 2006, 12:13",
+            "summary": "Mötley Crüe is an American heavy metal band formed in Hollywood, California, in 1981 by bassist Nikki Sixx and drummer Tommy Lee, with guitarist Mick Mars and vocalist Vince Neil joining shortly after. The band has sold over 100 million records worldwide and achieved seven platinum or multi-platinum certifications, nine Top 10 albums on the Billboard 200 chart—including \"Dr. Feelgood\" (1989), their only studio album to reach number one—twenty-two Top 40 mainstream rock hits, and six Top 20 pop singles. <a href=\"https://www.last.fm/music/M%C3%B6tley+Cr%C3%BCe\">Read more on Last.fm</a>",
+            "content": "Mötley Crüe is an American heavy metal band formed in Hollywood, California, in 1981 by bassist Nikki Sixx and drummer Tommy Lee, with guitarist Mick Mars and vocalist Vince Neil joining shortly after. The band has sold over 100 million records worldwide and achieved seven platinum or multi-platinum certifications, nine Top 10 albums on the Billboard 200 chart—including \"Dr. Feelgood\" (1989), their only studio album to reach number one—twenty-two Top 40 mainstream rock hits, and six Top 20 pop singles.\n\nMötley Crüe became known for their hedonistic lifestyles and androgynous image. Their first two albums, \"Too Fast for Love\" (1981) and \"Shout at the Devil\" (1983), established their hard rock and heavy metal sound, while their third release, \"Theatre of Pain\" (1985), marked their transition into glam metal. The band is also recognised for elaborate live performances featuring pyrotechnics, roller coaster drum kits, flame-throwing guitars, and theatrical stage effects. Their most recent studio album, \"Saints of Los Angeles,\" was released on June 24, 2008. What was initially intended as their final concert took place on December 31, 2015, and was later released in theatres and on Blu-ray in 2016.\n\nAfter a period of inactivity, Vince Neil announced in September 2018 that Mötley Crüe had reunited and was recording new material. On March 22, 2019, the band released four new songs as part of the soundtrack to their Netflix biopic \"The Dirt,\" which is based on their autobiography of the same name. The soundtrack reached number one on the iTunes All Genres Album Chart, number three on the Billboard Top Album and Digital Album Sales charts, number ten on the Billboard 200, and achieved top 10 positions internationally. The autobiography also re-entered The New York Times Best Seller list. In 2022, the band embarked on a co-headlining North American tour with Def Leppard, marking their first major tour in seven years.\n\nMötley Crüe has undergone several lineup changes, with Nikki Sixx remaining the only constant member. Vocalist John Corabi replaced Vince Neil from 1992 to 1996, while drummers Randy Castillo and Samantha Maloney filled in after Tommy Lee’s departure in 1999; Lee returned to the band in 2004. In October 2022, Mick Mars announced his retirement from touring after 41 years, and John 5 joined as his replacement.\n\nStudio albums\nToo Fast for Love (1981)\nShout at the Devil (1983)\nTheatre of Pain (1985)\nGirls, Girls, Girls (1987)\nDr. Feelgood (1989)\nMötley Crüe (1994)\nGeneration Swine (1997)\nNew Tattoo (2000)\nSaints of Los Angeles (2008) <a href=\"https://www.last.fm/music/M%C3%B6tley+Cr%C3%BCe\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

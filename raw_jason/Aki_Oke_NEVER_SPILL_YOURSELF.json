@@ -1,0 +1,43 @@
+{
+    "track": {
+        "name": "NEVER SPILL YOURSELF",
+        "url": "https://www.last.fm/music/Aki+Oke/_/NEVER+SPILL+YOURSELF",
+        "duration": "164000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "969",
+        "playcount": "1851",
+        "artist": {
+            "name": "Aki Oke",
+            "url": "https://www.last.fm/music/Aki+Oke"
+        },
+        "album": {
+            "artist": "Aki Oke",
+            "title": "lifewillneverbethesameagain.",
+            "url": "https://www.last.fm/music/Aki+Oke/lifewillneverbethesameagain.",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/0245d13848350e30197c84de4400c2ab.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/0245d13848350e30197c84de4400c2ab.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/0245d13848350e30197c84de4400c2ab.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0245d13848350e30197c84de4400c2ab.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

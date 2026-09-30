@@ -1,0 +1,44 @@
+{
+    "track": {
+        "name": "Ne Plus Ultra",
+        "mbid": "df0bd9c5-9d23-4964-8a75-cca25d45aca8",
+        "url": "https://www.last.fm/music/ear/_/Ne+Plus+Ultra",
+        "duration": "169000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "53513",
+        "playcount": "259811",
+        "artist": {
+            "name": "ear",
+            "url": "https://www.last.fm/music/ear"
+        },
+        "album": {
+            "artist": "ear",
+            "title": "Ne Plus Ultra",
+            "url": "https://www.last.fm/music/ear/Ne+Plus+Ultra",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/70f0a116c54b7a29732a999d6f80c49d.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/70f0a116c54b7a29732a999d6f80c49d.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/70f0a116c54b7a29732a999d6f80c49d.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/70f0a116c54b7a29732a999d6f80c49d.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

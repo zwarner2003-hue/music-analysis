@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "Lemon Jelly",
+        "mbid": "4cbbf0d6-6c78-4e3d-ab25-91b13603cf7c",
+        "url": "https://www.last.fm/music/Lemon+Jelly",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "582667",
+            "playcount": "9627119"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Bent",
+                    "url": "https://www.last.fm/music/Bent",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "FC/Kahuna",
+                    "url": "https://www.last.fm/music/FC%2FKahuna",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Nightmares on Wax",
+                    "url": "https://www.last.fm/music/Nightmares+on+Wax",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Aim",
+                    "url": "https://www.last.fm/music/Aim",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fila Brazillia",
+                    "url": "https://www.last.fm/music/Fila+Brazillia",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "electronic",
+                    "url": "https://www.last.fm/tag/electronic"
+                },
+                {
+                    "name": "chillout",
+                    "url": "https://www.last.fm/tag/chillout"
+                },
+                {
+                    "name": "downtempo",
+                    "url": "https://www.last.fm/tag/downtempo"
+                },
+                {
+                    "name": "trip-hop",
+                    "url": "https://www.last.fm/tag/trip-hop"
+                },
+                {
+                    "name": "electronica",
+                    "url": "https://www.last.fm/tag/electronica"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/Lemon+Jelly/+wiki"
+                }
+            },
+            "published": "21 Feb 2006, 20:48",
+            "summary": "Lemon Jelly were a British electronica duo from London, UK  and formed in 1998, consisting of Nick Franglen and Fred Deakin.\n\nFranglen and Deakin initially released three limited-circulation EPs: The Bath (1998), The Yellow (1999), and The Midnight (2000), all of which were then collected into a widely-released album in 2000, Lemonjelly.ky, which was both a critical and a commercial success.\n\nTheir second album (and self-proclaimed first studio album), Lost Horizons, was released in 2002, and was another success. <a href=\"https://www.last.fm/music/Lemon+Jelly\">Read more on Last.fm</a>",
+            "content": "Lemon Jelly were a British electronica duo from London, UK  and formed in 1998, consisting of Nick Franglen and Fred Deakin.\n\nFranglen and Deakin initially released three limited-circulation EPs: The Bath (1998), The Yellow (1999), and The Midnight (2000), all of which were then collected into a widely-released album in 2000, Lemonjelly.ky, which was both a critical and a commercial success.\n\nTheir second album (and self-proclaimed first studio album), Lost Horizons, was released in 2002, and was another success.\n\nTheir last album, 2005's '64-'95, featured a sticker to warn listeners that \"This is our new album. It's not like our old album.\" The title comes from the fact that each track features a single sample drawn from years between 1964 and 1995, incorporating each sample in a variety of imaginative ways.\n\nSome of their best or well-known songs are:\n\n- The Staunton Lick\n- Kneel Before Your God\n- Space Walk\n- Nice Weather For Ducks\n- '75 Aka Stay With You\n- '90 aka A Man Like Me\n\nThey have also made mix sets for Radio 1's Mary-Anne Hobbs' 'Breezeblock' show, as well as for a variety of other shows (6 Mix, XFM's 'The Hijack', The Blue Room, etc).  They have remixed a number of other artists, including Badly Drawn Boy, Pet Shop Boys and Coldcut, as well as collaborated with William Shatner on a track from his latest album.\n\nFred Deakin is also co-founder and creative director of print and interactive design agency Airside.\n\nIn January 2008, the duo announced Lemon Jelly would be breaking up for the foreseeable future.  Fred Deakin released the news on their forum.  He also stated that whilst there was a possibility the two would work together again, they would be pursuing solo careers for the time being.\n\nFred Deakin's website featuring Lemon Jelly info, his art, music and a comprehensive digital biography :\nhttps://freddeak.in/project/lemon-jelly//  \n\nMore Information:\nhttp://en.wikipedia.org/wiki/Lemon_Jelly\n <a href=\"https://www.last.fm/music/Lemon+Jelly\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

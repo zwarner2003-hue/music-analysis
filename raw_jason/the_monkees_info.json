@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "The Monkees",
+        "mbid": "b8549efe-f4fd-4dc0-8ef1-226e9c400233",
+        "url": "https://www.last.fm/music/The+Monkees",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "1600598",
+            "playcount": "22590743"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "The Turtles",
+                    "url": "https://www.last.fm/music/The+Turtles",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Lovin' Spoonful",
+                    "url": "https://www.last.fm/music/The+Lovin%27+Spoonful",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Beach Boys",
+                    "url": "https://www.last.fm/music/The+Beach+Boys",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Hollies",
+                    "url": "https://www.last.fm/music/The+Hollies",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Association",
+                    "url": "https://www.last.fm/music/The+Association",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "60s",
+                    "url": "https://www.last.fm/tag/60s"
+                },
+                {
+                    "name": "classic rock",
+                    "url": "https://www.last.fm/tag/classic+rock"
+                },
+                {
+                    "name": "pop",
+                    "url": "https://www.last.fm/tag/pop"
+                },
+                {
+                    "name": "rock",
+                    "url": "https://www.last.fm/tag/rock"
+                },
+                {
+                    "name": "oldies",
+                    "url": "https://www.last.fm/tag/oldies"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/The+Monkees/+wiki"
+                }
+            },
+            "published": "25 Feb 2006, 03:23",
+            "summary": "The Monkees was an American pop rock band formed in Los Angeles in the mid-1960s. The band consisted of Micky Dolenz, Davy Jones, Michael Nesmith, and Peter Tork. Spurred by the success of The Monkees television series, they were one of the most successful bands of the late 1960s. The band produced four chart-topping albums and three chart-topping songs (\"Last Train to Clarksville\", \"I'm a Believer\", and \"Daydream Believer\").\n\nThe Monkees was originally a fictional band created for the NBC television sitcom The Monkees. <a href=\"https://www.last.fm/music/The+Monkees\">Read more on Last.fm</a>",
+            "content": "The Monkees was an American pop rock band formed in Los Angeles in the mid-1960s. The band consisted of Micky Dolenz, Davy Jones, Michael Nesmith, and Peter Tork. Spurred by the success of The Monkees television series, they were one of the most successful bands of the late 1960s. The band produced four chart-topping albums and three chart-topping songs (\"Last Train to Clarksville\", \"I'm a Believer\", and \"Daydream Believer\").\n\nThe Monkees was originally a fictional band created for the NBC television sitcom The Monkees. Dolenz, Jones, Nesmith and Tork were cast to portray members of a band in the sitcom. Music credited to the Monkees appeared in the sitcom and was released on LPs and singles beginning in 1966, and the sitcom aired from 1966 to 1968. At first, the band members' musical contributions were primarily limited to lead vocals and the occasional composition, with the remaining music provided by professional songwriters and studio musicians. Though this arrangement yielded multiple hit albums and singles, the band members desired greater control over the creation of their music. Following a brief power struggle, the Monkees gained full control over the recording process in 1967. For two albums, the Monkees mostly performed as a group; however, within a year, each member was pursuing his own interests under the Monkees' name. With the cancellation of the TV series, diminishing success on the charts, and waning popularity overall, band members began to leave the group following the production of the theatrical film Head. The Monkees held a final recording session in 1970 before breaking up.\n\nRenewed interest in the Monkees emerged in 1986, leading to a 20th anniversary reunion tour and a new best-of album. Over the subsequent 35 years, the Monkees intermittently reunited for reunion tours, a major-network television special, and the production of new studio albums. After the deaths of Jones in 2012 and Tork in 2019, Dolenz and Nesmith undertook a farewell tour in 2021. This tour concluded shortly before Nesmith's death later that year, leaving Dolenz as the sole surviving member of the Monkees.\n\nMembers\n– Micky Dolenz – lead and backing vocals, rhythm guitar, drums, percussion, keyboards (1966–1971, 1986–1989, 1996–1997, 2001–2002, 2011–2021)\n\n– Davy Jones – lead and backing vocals, percussion, drums, rhythm guitar, bass (1966–1971, 1986–1989, 1996–1997, 2001–2002, 2011–2012; died 2012)\n\n– Michael Nesmith – lead and rhythm guitars, keyboards, backing and lead vocals (1966–1970, 1986, 1989, 1996–1997, 2012–2014, 2016, 2018–2021; died 2021)\n\n– Peter Tork – bass, rhythm and lead guitars, keyboards, banjo, backing and occasional lead vocals (1966–1968, 1986–1989, 1996–1997, 2001, 2011–2018; died 2019)\n\nThe Monkees (1966)\nMore of The Monkees (1967)\nHeadquarters (1967)\nPisces, Aquarius, Capricorn & Jones, Ltd. (1967)\nThe Birds, The Bees & The Monkees (1968)\nHead (1968)\nInstant Replay (1969)\nThe Monkees Present (1969)\nChanges (1970)\nThen & Now...The Best of the Monkees (1986)\nPool It! (1987)\nLive 1967 (1987)\nJustus (1996)\nGood Times! (2016)\nChristmas Party (2018) <a href=\"https://www.last.fm/music/The+Monkees\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "track": {
+        "name": "What's New Scooby-Doo?",
+        "mbid": "564b0c28-e002-42e0-8356-fcee4d1d070d",
+        "url": "https://www.last.fm/music/Simple+Plan/_/What%27s+New+Scooby-Doo%3F",
+        "duration": "68000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "269466",
+        "playcount": "1951194",
+        "artist": {
+            "name": "Simple Plan",
+            "mbid": "b345af35-205e-4eca-8006-029e5c20127e",
+            "url": "https://www.last.fm/music/Simple+Plan"
+        },
+        "album": {
+            "artist": "Simple Plan",
+            "title": "What's New Scooby-Doo?",
+            "url": "https://www.last.fm/music/Simple+Plan/What%27s+New+Scooby-Doo%3F",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2e46c27b9d251433d4252cbe637b9e2a.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2e46c27b9d251433d4252cbe637b9e2a.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2e46c27b9d251433d4252cbe637b9e2a.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2e46c27b9d251433d4252cbe637b9e2a.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        },
+        "wiki": {
+            "published": "28 Aug 2025, 16:05",
+            "summary": "\"What's New, Scooby-Doo?\" is the name of the theme song for the show of the same name. It is performed by the band Simple Plan, and is written by Rich Dickerson and Gigi Meroni. The song runs a little over a minute. An instrumental version of the song can be heard during the show's end credits. <a href=\"http://www.last.fm/music/Simple+Plan/_/What%27s+New+Scooby-Doo%3F\">Read more on Last.fm</a>.",
+            "content": "\"What's New, Scooby-Doo?\" is the name of the theme song for the show of the same name. It is performed by the band Simple Plan, and is written by Rich Dickerson and Gigi Meroni. The song runs a little over a minute. An instrumental version of the song can be heard during the show's end credits. <a href=\"http://www.last.fm/music/Simple+Plan/_/What%27s+New+Scooby-Doo%3F\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

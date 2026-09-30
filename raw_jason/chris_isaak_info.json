@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "Chris Isaak",
+        "mbid": "479497d4-e7c2-4e78-972e-56e78fac3995",
+        "url": "https://www.last.fm/music/Chris+Isaak",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "1",
+        "stats": {
+            "listeners": "2189182",
+            "playcount": "35066826"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Chris Rea",
+                    "url": "https://www.last.fm/music/Chris+Rea",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Mark Knopfler",
+                    "url": "https://www.last.fm/music/Mark+Knopfler",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "John Hiatt",
+                    "url": "https://www.last.fm/music/John+Hiatt",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Bryan Ferry",
+                    "url": "https://www.last.fm/music/Bryan+Ferry",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "J.J. Cale",
+                    "url": "https://www.last.fm/music/J.J.+Cale",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "rock",
+                    "url": "https://www.last.fm/tag/rock"
+                },
+                {
+                    "name": "blues",
+                    "url": "https://www.last.fm/tag/blues"
+                },
+                {
+                    "name": "singer-songwriter",
+                    "url": "https://www.last.fm/tag/singer-songwriter"
+                },
+                {
+                    "name": "80s",
+                    "url": "https://www.last.fm/tag/80s"
+                },
+                {
+                    "name": "pop",
+                    "url": "https://www.last.fm/tag/pop"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/Chris+Isaak/+wiki"
+                }
+            },
+            "published": "18 Apr 2006, 19:29",
+            "summary": "Chris Isaak (born June 26, 1956 in Stockton, California as Christopher Joseph Isaak) is an American Rock'n'Roll singer, songwriter, and occasional actor.\nIsaak's music can be described as a blend of country, blues, rock'n'roll, pop and surf rock.\n\nHe signed a contract to Warner Brothers Records in 1984 for his first album \"Silvertone\". Isaak's contract was renewed in 1988 when Warner moved him to their Reprise Records label.\n\nHe's well know for his song \"Wicked Game\". <a href=\"https://www.last.fm/music/Chris+Isaak\">Read more on Last.fm</a>",
+            "content": "Chris Isaak (born June 26, 1956 in Stockton, California as Christopher Joseph Isaak) is an American Rock'n'Roll singer, songwriter, and occasional actor.\nIsaak's music can be described as a blend of country, blues, rock'n'roll, pop and surf rock.\n\nHe signed a contract to Warner Brothers Records in 1984 for his first album \"Silvertone\". Isaak's contract was renewed in 1988 when Warner moved him to their Reprise Records label.\n\nHe's well know for his song \"Wicked Game\". Though released on the 1989 album \"Heart Shaped World\", an instrumental version of the song was later featured in the David Lynch film 'Wild at Heart' (and also years later in the 2000 film The Family Man). An Atlanta radio station DJ began playing the full version and it quickly became a nation-wide top ten hit. The music video for the song was directed by Herb Ritts and was a big MTV and VH1 hit; shot in black and white, it starred Isaak and model Helena Christensen rolling on the beach, embracing and whispering in each others' ears.\n\nIn 1999, Isaak's \"Baby Did A Bad, Bad Thing\" was featured in Stanley Kubrick's final film 'Eyes Wide Shut', starring Tom Cruise and Nicole Kidman.\n\nIn 2001, Chris Isaak starred in his own television show, 'The Chris Isaak Show'. It aired from March 2001 to March 2004 in the United States on  Showtime. This adult comedy show featured Chris Isaak and his band playing themselves with the episode plots based on fictional accounts of the backstage world of Chris Isaak - the rock star next door.\n\nIn 2004, his track \"Life Will Go On\" was featured on the 'Chasing Liberty' soundtrack, which starred Mandy Moore and Matthew Goode.\n\nHe hosted a talk show on the Biography cable channel in the United States in 2009 that offered a unique twist - each guest was a musical artist, and both Chris and the artist performed various songs throughout each show.  Eight episodes aired in early 2009, featuring guests Trisha Yearwood, Stevie Nicks, Glen Campbell, Michael Buble, Chicago, The Smashing Pumpkins, Yusuf Islam (Cat Stevens), and Jewel.\n\nIsaak has also appeared in numerous films, mostly playing minor cameo roles, though he starred with Keanu Reeves and Bridget Fonda in the 1993 Bernardo Bertolucci-directed 'Little Buddha', and also played a major role in David Lynch's 'Twin Peaks: Fire Walk with Me' (1992). Other motion pictures include 'Married to the Mob' (1988), 'The Silence of the Lambs' (1991), 'That Thing You Do!' (1996), and 'A Dirty Shame' (2004). He also guest-starred on the Super Bowl Sunday (1996) edition of the television sitcom Friends and on the HBO miniseries, From the Earth to the Moon (HBO).\n\nChris is also an amateur boxer, avid surfer and a former Golden Gloves champion. <a href=\"https://www.last.fm/music/Chris+Isaak\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

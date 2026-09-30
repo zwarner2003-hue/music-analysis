@@ -1,0 +1,45 @@
+{
+    "track": {
+        "name": "For Once in My Life",
+        "mbid": "00f22db1-817b-44e0-bf14-54cfda874e1e",
+        "url": "https://www.last.fm/music/Stevie+Wonder/_/For+Once+in+My+Life",
+        "duration": "167000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "809803",
+        "playcount": "4391043",
+        "artist": {
+            "name": "Stevie Wonder",
+            "mbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+            "url": "https://www.last.fm/music/Stevie+Wonder"
+        },
+        "album": {
+            "artist": "Stevie Wonder",
+            "title": "The Definitive Collection",
+            "url": "https://www.last.fm/music/Stevie+Wonder/The+Definitive+Collection",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5836e9a1bbd74476c460764fe78f12ba.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5836e9a1bbd74476c460764fe78f12ba.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5836e9a1bbd74476c460764fe78f12ba.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5836e9a1bbd74476c460764fe78f12ba.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

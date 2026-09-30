@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "The Doors",
+        "mbid": "9efff43b-3b29-4082-824e-bc82f646f93d",
+        "url": "https://www.last.fm/music/The+Doors",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "4799032",
+            "playcount": "233845881"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Jim Morrison",
+                    "url": "https://www.last.fm/music/Jim+Morrison",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cream",
+                    "url": "https://www.last.fm/music/Cream",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Led Zeppelin",
+                    "url": "https://www.last.fm/music/Led+Zeppelin",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Jimi Hendrix Experience",
+                    "url": "https://www.last.fm/music/The+Jimi+Hendrix+Experience",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Jimi Hendrix",
+                    "url": "https://www.last.fm/music/Jimi+Hendrix",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "classic rock",
+                    "url": "https://www.last.fm/tag/classic+rock"
+                },
+                {
+                    "name": "Psychedelic Rock",
+                    "url": "https://www.last.fm/tag/Psychedelic+Rock"
+                },
+                {
+                    "name": "rock",
+                    "url": "https://www.last.fm/tag/rock"
+                },
+                {
+                    "name": "60s",
+                    "url": "https://www.last.fm/tag/60s"
+                },
+                {
+                    "name": "psychedelic",
+                    "url": "https://www.last.fm/tag/psychedelic"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/The+Doors/+wiki"
+                }
+            },
+            "published": "10 Feb 2006, 16:49",
+            "summary": "The Doors was an American rock band formed in Los Angeles in 1965, consisting of vocalist Jim Morrison, keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore. The band became known for its distinctive sound, Morrison’s lyrical style and vocal delivery, and the group’s association with the 1960s counterculture. They also attracted attention for Morrison’s stage behavior and various legal controversies.\n\nThe band took its name from the title of Aldous Huxley's book \"The Doors of Perception\" <a href=\"https://www.last.fm/music/The+Doors\">Read more on Last.fm</a>",
+            "content": "The Doors was an American rock band formed in Los Angeles in 1965, consisting of vocalist Jim Morrison, keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore. The band became known for its distinctive sound, Morrison’s lyrical style and vocal delivery, and the group’s association with the 1960s counterculture. They also attracted attention for Morrison’s stage behavior and various legal controversies.\n\nThe band took its name from the title of Aldous Huxley's book \"The Doors of Perception\", which was itself a reference to a quote by the poet William Blake. After signing with Elektra Records in 1966, the band released six studio albums with Morrison between 1967 and 1971. These included \"The Doors\", \"Strange Days\", and \"L.A. Woman\", which are often cited among the most significant albums of the era. Referred to by Life magazine as the \"Kings of Acid Rock\", the Doors achieved commercial success, and by 1972 had sold over four million albums and nearly eight million singles in the United States.\n\nMorrison died in 1971 under circumstances that remain uncertain. The band continued as a trio and released two additional studio albums before disbanding in 1973. In 1978, the surviving members released \"An American Prayer\", which featured newly recorded music accompanying spoken-word poetry by Morrison that had been recorded in 1969 and 1970. They reunited briefly in 1993 for their induction into the Rock and Roll Hall of Fame and participated in a few other collaborative projects in the following decades.\n\nIn 2002, Manzarek and Krieger began performing with vocalist Ian Astbury under the name \"The Doors of the 21st Century\". Following legal action by Densmore and the Morrison estate over the use of the original band's name, the group changed its name first to Riders on the Storm and later to Manzarek–Krieger, continuing to tour until Manzarek’s death in 2013.\n\nThe Doors was the first American band to achieve eight consecutive albums certified Gold by the Recording Industry Association of America (RIAA). According to the RIAA, they have sold 34 million albums in the United States and over 100 million records worldwide. They are frequently cited among the best-selling and most influential rock bands, and have appeared on multiple lists of the greatest artists of all time, including Rolling Stone's ranking at number 41 on its list of the \"100 Greatest Artists of All Time\".\n\nFull Wikipedia article: https://en.wikipedia.org/wiki/The_Doors\n\nStudio albums\nThe Doors (1967)\nStrange Days (1967)\nWaiting for the Sun (1968)\nThe Soft Parade (1969)\nMorrison Hotel (1970)\nL.A. Woman (1971)\nOther Voices (1971)\nFull Circle (1972)\nAn American Prayer (1978) <a href=\"https://www.last.fm/music/The+Doors\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

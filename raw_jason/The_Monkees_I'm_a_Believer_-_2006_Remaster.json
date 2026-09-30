@@ -1,0 +1,21 @@
+{
+    "track": {
+        "name": "I'm a Believer - 2006 Remaster",
+        "url": "https://www.last.fm/music/The+Monkees/_/I%27m+a+Believer+-+2006+Remaster",
+        "duration": "0",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "495558",
+        "playcount": "2538778",
+        "artist": {
+            "name": "The Monkees",
+            "mbid": "b8549efe-f4fd-4dc0-8ef1-226e9c400233",
+            "url": "https://www.last.fm/music/The+Monkees"
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

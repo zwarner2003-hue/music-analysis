@@ -4,5 +4,4 @@ __pycache__/
 *.duckdb
 *.code-workspace
 testingdata
-raw_jason/
 sql_tests/

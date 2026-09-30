@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "Rainbow Kitten Surprise",
+        "mbid": "ab4e7869-86f5-455e-b52c-c89d7664c07b",
+        "url": "https://www.last.fm/music/Rainbow+Kitten+Surprise",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "1135625",
+            "playcount": "46482088"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Matt Maeson",
+                    "url": "https://www.last.fm/music/Matt+Maeson",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Briston Maroney",
+                    "url": "https://www.last.fm/music/Briston+Maroney",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "hey, nothing",
+                    "url": "https://www.last.fm/music/hey,+nothing",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Flipturn",
+                    "url": "https://www.last.fm/music/Flipturn",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Backseat Lovers",
+                    "url": "https://www.last.fm/music/The+Backseat+Lovers",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "indie rock",
+                    "url": "https://www.last.fm/tag/indie+rock"
+                },
+                {
+                    "name": "indie pop",
+                    "url": "https://www.last.fm/tag/indie+pop"
+                },
+                {
+                    "name": "alternative",
+                    "url": "https://www.last.fm/tag/alternative"
+                },
+                {
+                    "name": "indie",
+                    "url": "https://www.last.fm/tag/indie"
+                },
+                {
+                    "name": "folk",
+                    "url": "https://www.last.fm/tag/folk"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/Rainbow+Kitten+Surprise/+wiki"
+                }
+            },
+            "published": "29 Nov 2013, 02:17",
+            "summary": "Rainbow Kitten Surprise and all five of its members hail from the mountains of Boone, North Carolina. With catchy, yet deep lyrical meaning, beautifully designed bass lines, and melodic guitar riffs, their unique sound will keep you humming their tunes all day long. The Alternative/Indie-Pop band takes influence from great artists like Modest Mouse, Lana Del Rey, and Kings of Leon.\n\nRKS was formed in early 2013 when the first two members, Ela Melo and Darrick \"Bozzy\" Keller, decided to begin writing and composing music together. <a href=\"https://www.last.fm/music/Rainbow+Kitten+Surprise\">Read more on Last.fm</a>",
+            "content": "Rainbow Kitten Surprise and all five of its members hail from the mountains of Boone, North Carolina. With catchy, yet deep lyrical meaning, beautifully designed bass lines, and melodic guitar riffs, their unique sound will keep you humming their tunes all day long. The Alternative/Indie-Pop band takes influence from great artists like Modest Mouse, Lana Del Rey, and Kings of Leon.\n\nRKS was formed in early 2013 when the first two members, Ela Melo and Darrick \"Bozzy\" Keller, decided to begin writing and composing music together. What started out as just two college students with acoustic guitars, would soon turn into a full band with a uniquely controversial name.\n\nAfter recording RKS's first EP \"Mary\" in an old dorm room on the campus of Appalachian State University, the duo decided to take it up a notch by adding more members and instruments to the band. Over the next year the group widely expanded in size and sound by adding three more members: Ethan Goodpaster (Electric Guitar), Jess Haney (Drums), and Charlie Holt (Bass). In that year, RKS independently released their first album \"Seven\" (Which was later re-released in combination with the band's first EP as a joint album titled \"Seven + Mary\"). The title song, \"Seven\" has been featured in many places on the web including in the very popular podcast by IGN, Podcast Beyond! The song \"Devil Like Me\" and its music video earned the band a spot in VH1's \"Make A Band Famous\" contest where they made it to the final 24 out of thousands of artists from across the US.\n\nThe group's main interest is producing a quality, unique, and fresh sound for all music lovers to listen to and enjoy. Their new album \"RKS! Live from Athens, Georgia\" is now available on iTunes & Spotify <a href=\"https://www.last.fm/music/Rainbow+Kitten+Surprise\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

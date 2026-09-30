@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "Carly Rae Jepsen",
+        "mbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1",
+        "url": "https://www.last.fm/music/Carly+Rae+Jepsen",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "3168890",
+            "playcount": "164634226"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Rebecca Black",
+                    "url": "https://www.last.fm/music/Rebecca+Black",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Tove Lo",
+                    "url": "https://www.last.fm/music/Tove+Lo",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Robyn",
+                    "url": "https://www.last.fm/music/Robyn",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Kim Petras",
+                    "url": "https://www.last.fm/music/Kim+Petras",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Jessie Ware",
+                    "url": "https://www.last.fm/music/Jessie+Ware",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "pop",
+                    "url": "https://www.last.fm/tag/pop"
+                },
+                {
+                    "name": "Canadian",
+                    "url": "https://www.last.fm/tag/Canadian"
+                },
+                {
+                    "name": "female vocalists",
+                    "url": "https://www.last.fm/tag/female+vocalists"
+                },
+                {
+                    "name": "folk",
+                    "url": "https://www.last.fm/tag/folk"
+                },
+                {
+                    "name": "acoustic",
+                    "url": "https://www.last.fm/tag/acoustic"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/Carly+Rae+Jepsen/+wiki"
+                }
+            },
+            "published": "02 Jul 2007, 03:52",
+            "summary": "Carly Rae Jepsen (born November 21, 1985) is a Canadian singer, songwriter, and actress. She trained in musical theatre throughout her school years and at university, and first gained widespread attention after finishing third on the fifth season of Canadian Idol in 2007. In 2008, she released her debut studio album, \"Tug of War\", a folk-influenced record initially issued in Canada and later internationally in 2011.\n\nJepsen achieved global recognition in 2012 with the single \"Call Me Maybe\" <a href=\"https://www.last.fm/music/Carly+Rae+Jepsen\">Read more on Last.fm</a>",
+            "content": "Carly Rae Jepsen (born November 21, 1985) is a Canadian singer, songwriter, and actress. She trained in musical theatre throughout her school years and at university, and first gained widespread attention after finishing third on the fifth season of Canadian Idol in 2007. In 2008, she released her debut studio album, \"Tug of War\", a folk-influenced record initially issued in Canada and later internationally in 2011.\n\nJepsen achieved global recognition in 2012 with the single \"Call Me Maybe\", which became the best-selling single of the year, selling over 18 million copies and reaching number one in more than 19 countries. The success of the song led to record deals with Schoolboy Records and Interscope Records. Later that year, she released her second studio album, \"Kiss\", which included the single \"Good Time\", a collaboration with Owl City; both songs reached the top ten in Canada and the United States.\n\nIn 2014, Jepsen made her Broadway debut in the titular role of \"Cinderella\", performing for twelve weeks. Her third studio album, \"Emotion\" (2015), drew inspiration from 1980s music, dance-pop, and synth-pop, and featured the singles \"I Really Like You\", \"Your Type\", and \"Run Away with Me\". She also appeared in the television special \"Grease: Live\" and provided a voice role in the animated film \"Ballerina\" in 2016.\n\nJepsen’s fourth studio album, \"Dedicated\" (2019), included singles such as \"Party for One\", \"Now That I Found You\", and \"No Drug Like Me\". It was followed by a B-side companion album, \"Dedicated Side B\", in 2020. Her sixth studio album, \"The Loneliest Time\" (2022), featured the singles \"Western Wind\", \"Beach House\", and the title track, a collaboration with Rufus Wainwright. Its companion album, \"The Loveliest Time\", was released in July 2023.\n\nThroughout her career, Jepsen has received three Juno Awards, three Billboard Music Awards, and an Allan Slaight Award, and has been nominated for Grammy Awards, MTV Video Music Awards, the Polaris Music Prize, and People's Choice Awards. In 2025, she was ranked number 75 on Billboard’s Top Women Artists of the 21st Century chart.\n\nStudio albums\nTug of War (2008)\nKiss (2012)\nEmotion (2015)\nDedicated (2019)\nDedicated Side B (2020)\nThe Loneliest Time (2022)\nThe Loveliest Time (2023)\nDay and Night (2026) <a href=\"https://www.last.fm/music/Carly+Rae+Jepsen\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

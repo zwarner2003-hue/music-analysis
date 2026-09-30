@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "Hozier",
+        "mbid": "b4691384-50c3-4afd-9988-51d3ec5db65d",
+        "url": "https://www.last.fm/music/Hozier",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "3466768",
+            "playcount": "295307854"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Noah Kahan",
+                    "url": "https://www.last.fm/music/Noah+Kahan",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Florence + the Machine",
+                    "url": "https://www.last.fm/music/Florence+%252B+the+Machine",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Gigi Perez",
+                    "url": "https://www.last.fm/music/Gigi+Perez",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Lumineers",
+                    "url": "https://www.last.fm/music/The+Lumineers",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Crane Wives",
+                    "url": "https://www.last.fm/music/The+Crane+Wives",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "blues",
+                    "url": "https://www.last.fm/tag/blues"
+                },
+                {
+                    "name": "indie",
+                    "url": "https://www.last.fm/tag/indie"
+                },
+                {
+                    "name": "soul",
+                    "url": "https://www.last.fm/tag/soul"
+                },
+                {
+                    "name": "singer-songwriter",
+                    "url": "https://www.last.fm/tag/singer-songwriter"
+                },
+                {
+                    "name": "irish",
+                    "url": "https://www.last.fm/tag/irish"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/Hozier/+wiki"
+                }
+            },
+            "published": "07 Oct 2013, 09:54",
+            "summary": "Andrew Hozier-Byrne (born 17 March 1990), known mononymously as Hozier, is an Irish musician and singer-songwriter from Bray, County Wicklow, Ireland. In 2013 he released his debut EP, featuring the hit single \"Take Me to Church\", and his second EP \"From Eden\" in 2014. His debut studio album, \"Hozier\", was released in Ireland in September 2014 and globally in October 2014.\n\nHozier was born in Bray, County Wicklow, Ireland.  His mother is the visual artist Raine Hozier-Byrne (who also designed his latest album cover). <a href=\"https://www.last.fm/music/Hozier\">Read more on Last.fm</a>",
+            "content": "Andrew Hozier-Byrne (born 17 March 1990), known mononymously as Hozier, is an Irish musician and singer-songwriter from Bray, County Wicklow, Ireland. In 2013 he released his debut EP, featuring the hit single \"Take Me to Church\", and his second EP \"From Eden\" in 2014. His debut studio album, \"Hozier\", was released in Ireland in September 2014 and globally in October 2014.\n\nHozier was born in Bray, County Wicklow, Ireland.  His mother is the visual artist Raine Hozier-Byrne (who also designed his latest album cover). He began a degree in music at Trinity College, Dublin, but dropped out midway through his first year in order to record demos for Universal Music. While at Trinity, he became involved with the Trinity Orchestra. He was a member of Anúna from 2008 to 2012, and appears as a soloist on their 2012 release \"Illumination\" singing \"La Chanson de Mardi Gras\". He toured and sang with the group internationally including performances in Norway and the Netherlands.\n\nIn 2013, Hozier released the EP \"Take Me to Church EP\" (also containing \"Like Real People Do\", \"Angel of Small Death and The Codeine Scene\" and a live version of \"Cherry Wine\"), with the title track becoming his breakthrough single after it went viral on YouTube. It reached number one on the Irish iTunes singles chart and number two in the official chart on 25 October 2013. \n\nHozier followed up Take Me to Church with the new EP \"From Eden EP\" (also containing \"Work Song\", \"Arsonist's Lullabye\" and a live version of \"To Be Alone\"), and a number of festival tour dates and television appearances in the United States. Hozier released his self-titled album, \"Hozier\" on 19 September 2014. It had five singles including \"Take Me to Church\", \"Work Song\", and \"From Eden\", which were hits on his earlier EPs. On December 2014, it was announced that \"Take Me to Church\" was nominated at the 57th Annual Grammy Awards for Song of the Year in 2015.\n\nIn September 2018, he released an EP titled Nina Cried Power and featured the title track as a single, reaching number one on the Billboard Adult Alternative Songs chart. He released his second album, Wasteland, Baby! in March 2019, which debuted atop the Irish Albums Chart and the Billboard 200, and has since been certified gold in the U.S. <a href=\"https://www.last.fm/music/Hozier\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

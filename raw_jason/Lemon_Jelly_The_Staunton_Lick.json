@@ -1,0 +1,45 @@
+{
+    "track": {
+        "name": "The Staunton Lick",
+        "mbid": "3cb8e3d6-3140-37b2-830a-d7369fa1b2c7",
+        "url": "https://www.last.fm/music/Lemon+Jelly/_/The+Staunton+Lick",
+        "duration": "296000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "128644",
+        "playcount": "638208",
+        "artist": {
+            "name": "Lemon Jelly",
+            "mbid": "4cbbf0d6-6c78-4e3d-ab25-91b13603cf7c",
+            "url": "https://www.last.fm/music/Lemon+Jelly"
+        },
+        "album": {
+            "artist": "Lemon Jelly",
+            "title": "lemonjelly.ky",
+            "url": "https://www.last.fm/music/Lemon+Jelly/lemonjelly.ky",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/0c86144d7748a6f47a002f74d220892c.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/0c86144d7748a6f47a002f74d220892c.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/0c86144d7748a6f47a002f74d220892c.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0c86144d7748a6f47a002f74d220892c.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

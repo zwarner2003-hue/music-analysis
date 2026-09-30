@@ -1,0 +1,45 @@
+{
+    "track": {
+        "name": "The Night",
+        "mbid": "ad4040db-ef77-371d-8d56-946ebde87076",
+        "url": "https://www.last.fm/music/%E5%B0%BE%E5%B4%8E%E8%B1%8A/_/The+Night",
+        "duration": "329000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "174",
+        "playcount": "561",
+        "artist": {
+            "name": "尾崎豊",
+            "mbid": "6163a297-49b6-4d23-9641-fb3fd462d171",
+            "url": "https://www.last.fm/music/%E5%B0%BE%E5%B4%8E%E8%B1%8A"
+        },
+        "album": {
+            "artist": "尾崎豊",
+            "title": "For All My Loves",
+            "url": "https://www.last.fm/music/%E5%B0%BE%E5%B4%8E%E8%B1%8A/For+All+My+Loves",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/be70b693f72bd1054b21a0ed376f0939.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/be70b693f72bd1054b21a0ed376f0939.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/be70b693f72bd1054b21a0ed376f0939.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/be70b693f72bd1054b21a0ed376f0939.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

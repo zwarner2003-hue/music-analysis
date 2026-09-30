@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "Johnny Cash",
+        "mbid": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
+        "url": "https://www.last.fm/music/Johnny+Cash",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "4172888",
+            "playcount": "174556078"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "Johnny Cash & June Carter",
+                    "url": "https://www.last.fm/music/Johnny+Cash+&+June+Carter",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "The Highwaymen",
+                    "url": "https://www.last.fm/music/The+Highwaymen",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Waylon Jennings",
+                    "url": "https://www.last.fm/music/Waylon+Jennings",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hank Williams",
+                    "url": "https://www.last.fm/music/Hank+Williams",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Marty Robbins",
+                    "url": "https://www.last.fm/music/Marty+Robbins",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "country",
+                    "url": "https://www.last.fm/tag/country"
+                },
+                {
+                    "name": "folk",
+                    "url": "https://www.last.fm/tag/folk"
+                },
+                {
+                    "name": "singer-songwriter",
+                    "url": "https://www.last.fm/tag/singer-songwriter"
+                },
+                {
+                    "name": "classic rock",
+                    "url": "https://www.last.fm/tag/classic+rock"
+                },
+                {
+                    "name": "rock",
+                    "url": "https://www.last.fm/tag/rock"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/Johnny+Cash/+wiki"
+                }
+            },
+            "published": "10 Feb 2006, 14:45",
+            "summary": "John R. Cash (born J. R. Cash; February 26, 1932 – September 12, 2003) was an American singer-songwriter. His music often explored themes of sorrow, moral reflection, and redemption, particularly in his later work. He had a deep bass-baritone voice and was accompanied by the Tennessee Three, a backing band noted for its distinctive guitar rhythms. Cash was known for performing prison concerts and frequently wore an all-black stage wardrobe, which led to his nickname \"Man in Black.\" <a href=\"https://www.last.fm/music/Johnny+Cash\">Read more on Last.fm</a>",
+            "content": "John R. Cash (born J. R. Cash; February 26, 1932 – September 12, 2003) was an American singer-songwriter. His music often explored themes of sorrow, moral reflection, and redemption, particularly in his later work. He had a deep bass-baritone voice and was accompanied by the Tennessee Three, a backing band noted for its distinctive guitar rhythms. Cash was known for performing prison concerts and frequently wore an all-black stage wardrobe, which led to his nickname \"Man in Black.\"\n\nCash was born in Kingsland, Arkansas, to a family of cotton farmers. He grew up listening to gospel music and performed on a local radio station during high school. He served four years in the Air Force, including time stationed in West Germany. After returning to the United States, he became prominent in the mid-1950s rockabilly scene in Memphis, Tennessee. In his concerts, he often introduced himself with \"Hello, I'm Johnny Cash,\" followed by performances of songs such as \"Folsom Prison Blues.\" Other notable songs from his career include \"I Walk the Line,\" \"Ring of Fire,\" \"Get Rhythm,\" and \"Man in Black.\" He also recorded humorous tracks like \"One Piece at a Time\" and \"A Boy Named Sue,\" duets with his future wife June such as \"Jackson,\" and songs about railroads including \"Hey, Porter,\" \"Orange Blossom Special,\" and \"Rock Island Line.\" Later in his career, Cash covered songs by contemporary rock artists, including \"Hurt\" by Nine Inch Nails, \"Rusty Cage\" by Soundgarden, and \"Personal Jesus\" by Depeche Mode.\n\nCash sold more than 90 million records worldwide. His work encompassed country, rock and roll, rockabilly, blues, folk, and gospel music. He was inducted into the Country Music, Rock and Roll, and Gospel Music Halls of Fame. His life and career were depicted in the 2005 biographical film \"Walk the Line.\"\n\nStudio albums\nJohnny Cash with His Hot and Blue Guitar! (1957)\nThe Fabulous Johnny Cash (1958)\nHymns by Johnny Cash (1959)\nSongs of Our Soil (1959)\nNow, There Was a Song! (1960)\nRide This Train (1960)\nHymns from the Heart (1962)\nThe Sound of Johnny Cash (1962)\nBlood, Sweat and Tears (1963)\nThe Christmas Spirit (1963)\nKeep on the Sunny Side (1964) (with the Carter Family)\nI Walk the Line (1964)\nBitter Tears: Ballads of the American Indian (1964)\nOrange Blossom Special (1965)\nJohnny Cash Sings the Ballads of the True West (1965)\nEverybody Loves a Nut (1966)\nHappiness Is You (1966)\nCarryin' On with Johnny Cash & June Carter (1967) (with June Carter)\nFrom Sea to Shining Sea (1968)\nThe Holy Land (1969)\nHello, I'm Johnny Cash (1970)\nMan in Black (1971)\nA Thing Called Love (1972)\nAmerica: A 200-Year Salute in Story and Song (1972)\nThe Johnny Cash Family Christmas (1972)\nAny Old Wind That Blows (1973)\nJohnny Cash and His Woman (1973) (with June Carter Cash)\nRagged Old Flag (1974)\nThe Junkie and the Juicehead Minus Me (1974)\nThe Johnny Cash Children's Album (1975)\nJohnny Cash Sings Precious Memories (1975)\nJohn R. Cash (1975)\nLook at Them Beans (1975)\nOne Piece at a Time (1976)\nThe Last Gunfighter Ballad (1977)\nThe Rambler (1977)\nI Would Like to See You Again (1978)\nGone Girl (1978)\nSilver (1979)\nA Believer Sings the Truth (1979)\nJohnny Cash Sings with the BC Goodpasture Christian School (1979)\nRockabilly Blues (1980)\nClassic Christmas (1980)\nThe Baron (1981)\nThe Adventures of Johnny Cash (1982)\nJohnny 99 (1983)\nHighwayman (1985) (with Waylon Jennings, Willie Nelson & Kris Kristofferson)\nRainbow (1985)\nHeroes (with Waylon Jennings) (1986)\nClass of '55 (1986) (with Roy Orbison, Jerry Lee Lewis & Carl Perkins)\nBelieve in Him (1986)\nJohnny Cash Is Coming to Town (1987)\nClassic Cash: Hall of Fame Series (1988)\nWater from the Wells of Home (1988)\nBoom Chicka Boom (1990)\nHighwayman 2 (1990) (with Waylon Jennings, Willie Nelson & Kris Kristofferson)\nThe Mystery of Life (1991)\nCountry Christmas (1991)\nAmerican Recordings (1994)\nThe Road Goes on Forever (1995) (with Waylon Jennings, Willie Nelson & Kris Kristofferson)\nAmerican II: Unchained (1996)\nAmerican III: Solitary Man (2000)\nAmerican IV: The Man Comes Around (2002)\nMy Mother's Hymn Book (2004)\nAmerican V: A Hundred Highways (2006)\nAmerican VI: Ain't No Grave (2010)\nOut Among the Stars (2014)\nSongwriter (2024) <a href=\"https://www.last.fm/music/Johnny+Cash\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

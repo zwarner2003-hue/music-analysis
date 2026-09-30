@@ -1,0 +1,229 @@
+{
+    "artist": {
+        "name": "twikipedia",
+        "mbid": "1243864e-3fc1-4c44-af19-2333d6ade559",
+        "url": "https://www.last.fm/music/twikipedia",
+        "image": [
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+            }
+        ],
+        "streamable": "0",
+        "ontour": "0",
+        "stats": {
+            "listeners": "165689",
+            "playcount": "20210962"
+        },
+        "similar": {
+            "artist": [
+                {
+                    "name": "D2LTA",
+                    "url": "https://www.last.fm/music/D2LTA",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieu",
+                    "url": "https://www.last.fm/music/Lieu",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Saturn",
+                    "url": "https://www.last.fm/music/Saturn",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "d0llywood1",
+                    "url": "https://www.last.fm/music/d0llywood1",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "twikipedia, lieu",
+                    "url": "https://www.last.fm/music/twikipedia,+lieu",
+                    "image": [
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": "mega"
+                        },
+                        {
+                            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": {
+            "tag": [
+                {
+                    "name": "digicore",
+                    "url": "https://www.last.fm/tag/digicore"
+                },
+                {
+                    "name": "pop rap",
+                    "url": "https://www.last.fm/tag/pop+rap"
+                },
+                {
+                    "name": "hyperpop",
+                    "url": "https://www.last.fm/tag/hyperpop"
+                },
+                {
+                    "name": "trap",
+                    "url": "https://www.last.fm/tag/trap"
+                },
+                {
+                    "name": "emo rap",
+                    "url": "https://www.last.fm/tag/emo+rap"
+                }
+            ]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "https://last.fm/music/twikipedia/+wiki"
+                }
+            },
+            "published": "30 Oct 2020, 21:27",
+            "summary": "Twikipedia (also known as Delta, now primarily working under key vs. locket), is an experimental artist and producer from Niterói, Brazil, born on May 16, 2004.\n\nWhen Delta decided to treat music as a career at 16 years old, she was first inspired by the digicore artist saturn and his song omegle. After befriending the artist and having his preset sent to her, Delta began creating a similar style of music falling under the digicore & hyperpop umbrella throughout 2020, releasing her first serious album die on Spotify that March. <a href=\"https://www.last.fm/music/twikipedia\">Read more on Last.fm</a>",
+            "content": "Twikipedia (also known as Delta, now primarily working under key vs. locket), is an experimental artist and producer from Niterói, Brazil, born on May 16, 2004.\n\nWhen Delta decided to treat music as a career at 16 years old, she was first inspired by the digicore artist saturn and his song omegle. After befriending the artist and having his preset sent to her, Delta began creating a similar style of music falling under the digicore & hyperpop umbrella throughout 2020, releasing her first serious album die on Spotify that March. Following this release, she began releasing several singles which were previously only available on SoundCloud which led to become the album songs and music.\n\nPrior to this shift, she had specialized in creating lofi-adjacent music under the name delta day, and remixes under the artist name bomber, having worked on music in various forms since she was around the age of 12 years old.\n\nDelta has been very active on SoundCloud for upwards of ten years, managing a total of ten known accounts as of 2023, though many of them are no longer in use. It can be speculated that there are more, yet Delta has not made them publicly available. Furthermore, she feels a great connection to her Brazilian roots and appreciates her Brazilian fans greatly; implementing her native language of Brazilian Portuguese into many of their songs, most notably a verse in titles and the full songs inferno, senta, and campo. She also produces and collaborates with Brazilian artist virgingod often. \n\nStated in  an interview, Delta does not contain herself within a particular genre and likes to consider her sound as a unique one that isn’t defined with one simple label. With that being said, she don't mind her previous works being recognized under the hyperpop umbrella, as she is very recognizable within that community, having worked with artists such as ericdoa, angelus, SEBii, midwxst, funeral, MOL$, and more. She also produces music for a plethora of other artists within the scene, and made a cover of one of quinn’s most popular songs, i don't want that many friends in the first place. Though, Delta has since  expressed interest  in changing the direction she will take her music in the future, spending a considerable amount of time exploring different artistic directions and expanding on side projects. \n\nThis sentiment was fully realized with her EP still-life, and her third album,  for the rest of your life. These projects follow an acoustic and rock sound respectively, with very little hyperpop influence present. While well-received and acclaimed by both fans and critics, it was a sharp change of genre for Delta, signifying a new era of her music. However, she has stated via  Bandcamp that a return to her old music style may happen again in the future, but she doesn't know for sure.\n\nThe other aliases Delta have used are as follows: delta day, wikitwikia, ericdoafan39, jarvas, deltaday, alphadream2, delta OST, bomber, twikipedia leaks,  key vs. locket, and D2LTA. <a href=\"https://www.last.fm/music/twikipedia\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

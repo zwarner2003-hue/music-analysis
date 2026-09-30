@@ -1,0 +1,45 @@
+{
+    "track": {
+        "name": "learn yourself",
+        "mbid": "03770dbd-ab03-41c2-8507-414f39933437",
+        "url": "https://www.last.fm/music/twikipedia/_/learn+yourself",
+        "duration": "169000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "21218",
+        "playcount": "257919",
+        "artist": {
+            "name": "twikipedia",
+            "mbid": "1243864e-3fc1-4c44-af19-2333d6ade559",
+            "url": "https://www.last.fm/music/twikipedia"
+        },
+        "album": {
+            "artist": "twikipedia",
+            "title": "for the rest of your life",
+            "url": "https://www.last.fm/music/twikipedia/for+the+rest+of+your+life",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/50582581fa0e7caef224e8f367f656cb.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/50582581fa0e7caef224e8f367f656cb.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/50582581fa0e7caef224e8f367f656cb.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/50582581fa0e7caef224e8f367f656cb.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

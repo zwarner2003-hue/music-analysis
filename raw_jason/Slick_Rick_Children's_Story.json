@@ -1,0 +1,50 @@
+{
+    "track": {
+        "name": "Children's Story",
+        "mbid": "00a555d9-d144-3a2c-9ed5-d0a0b287cfba",
+        "url": "https://www.last.fm/music/Slick+Rick/_/Children%27s+Story",
+        "duration": "243000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "301792",
+        "playcount": "1389530",
+        "artist": {
+            "name": "Slick Rick",
+            "mbid": "486af4f0-a79b-468f-be73-527cd4caf6ea",
+            "url": "https://www.last.fm/music/Slick+Rick"
+        },
+        "album": {
+            "artist": "Slick Rick",
+            "title": "The Great Adventures of Slick Rick",
+            "url": "https://www.last.fm/music/Slick+Rick/The+Great+Adventures+of+Slick+Rick",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/dee78af76ed1450a86245bfe3479ac99.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/dee78af76ed1450a86245bfe3479ac99.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/dee78af76ed1450a86245bfe3479ac99.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dee78af76ed1450a86245bfe3479ac99.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        },
+        "wiki": {
+            "published": "19 Jun 2009, 09:11",
+            "summary": "\"Children's Story\" is a single by London-born American rap artist Slick Rick, from his album The Great Adventures of Slick Rick. It is a tragic tale that can be interpreted as an implicit condemnation of violence and greed. It samples \"Think (About It)\" by Lyn Collins and \"Nautilus\" by Bob James. It features a single, almost four-minute-long verse without instrumental breaks or a refrain. A testament to the influence of Slick Rick, his lyrics have since been sampled and reincorporated in countless hip hop songs. <a href=\"http://www.last.fm/music/Slick+Rick/_/Children%27s+Story\">Read more on Last.fm</a>.",
+            "content": "\"Children's Story\" is a single by London-born American rap artist Slick Rick, from his album The Great Adventures of Slick Rick. It is a tragic tale that can be interpreted as an implicit condemnation of violence and greed. It samples \"Think (About It)\" by Lyn Collins and \"Nautilus\" by Bob James. It features a single, almost four-minute-long verse without instrumental breaks or a refrain. A testament to the influence of Slick Rick, his lyrics have since been sampled and reincorporated in countless hip hop songs. This song ranked #44 on About.com's Top 100 Rap Songs. <a href=\"http://www.last.fm/music/Slick+Rick/_/Children%27s+Story\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+        }
+    }
+}

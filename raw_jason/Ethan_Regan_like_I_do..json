@@ -1,0 +1,44 @@
+{
+    "track": {
+        "name": "like i do.",
+        "url": "https://www.last.fm/music/Ethan+Regan/_/like+i+do.",
+        "duration": "231000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "22899",
+        "playcount": "128619",
+        "artist": {
+            "name": "Ethan Regan",
+            "mbid": "04b685be-a7a7-4d54-8ea5-2b30a95fc0e1",
+            "url": "https://www.last.fm/music/Ethan+Regan"
+        },
+        "album": {
+            "artist": "Ethan Regan",
+            "title": "like i do.",
+            "url": "https://www.last.fm/music/Ethan+Regan/like+i+do.",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/3410d9163183c64da6ee442486a0db36.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/3410d9163183c64da6ee442486a0db36.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/3410d9163183c64da6ee442486a0db36.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3410d9163183c64da6ee442486a0db36.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

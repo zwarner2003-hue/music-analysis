@@ -1,0 +1,44 @@
+{
+    "track": {
+        "name": "Other Side of the World",
+        "url": "https://www.last.fm/music/LAUNDRY+DAY/_/Other+Side+of+the+World",
+        "duration": "226000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "17774",
+        "playcount": "116847",
+        "artist": {
+            "name": "LAUNDRY DAY",
+            "mbid": "f3141f03-a60c-4831-8486-1d0f883001db",
+            "url": "https://www.last.fm/music/LAUNDRY+DAY"
+        },
+        "album": {
+            "artist": "LAUNDRY DAY",
+            "title": "Other Side of the World",
+            "url": "https://www.last.fm/music/LAUNDRY+DAY/Other+Side+of+the+World",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/369e83badde2535aa61dc81b8226b270.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/369e83badde2535aa61dc81b8226b270.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/369e83badde2535aa61dc81b8226b270.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/369e83badde2535aa61dc81b8226b270.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}

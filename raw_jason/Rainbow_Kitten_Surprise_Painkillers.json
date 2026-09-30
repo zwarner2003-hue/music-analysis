@@ -1,0 +1,45 @@
+{
+    "track": {
+        "name": "Painkillers",
+        "mbid": "05b42319-23fb-4331-b0a1-ece160ce44df",
+        "url": "https://www.last.fm/music/Rainbow+Kitten+Surprise/_/Painkillers",
+        "duration": "213000",
+        "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+        },
+        "listeners": "247714",
+        "playcount": "2882306",
+        "artist": {
+            "name": "Rainbow Kitten Surprise",
+            "mbid": "ab4e7869-86f5-455e-b52c-c89d7664c07b",
+            "url": "https://www.last.fm/music/Rainbow+Kitten+Surprise"
+        },
+        "album": {
+            "artist": "Rainbow Kitten Surprise",
+            "title": "How To: Friend, Love, Freefall",
+            "url": "https://www.last.fm/music/Rainbow+Kitten+Surprise/How+To:+Friend,+Love,+Freefall",
+            "image": [
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/f5875dc8068755a94ee9f671613b3ecb.png",
+                    "size": "small"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/f5875dc8068755a94ee9f671613b3ecb.png",
+                    "size": "medium"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/f5875dc8068755a94ee9f671613b3ecb.png",
+                    "size": "large"
+                },
+                {
+                    "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f5875dc8068755a94ee9f671613b3ecb.png",
+                    "size": "extralarge"
+                }
+            ]
+        },
+        "toptags": {
+            "tag": []
+        }
+    }
+}
