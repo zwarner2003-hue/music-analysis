@@ -89,5 +89,17 @@ streamlit run app.py
 
 You do not need to call the API to run this program, all the JSON files are committed in the `/raw_jason` directory. 
 
+
+
+## What I Would Improve
+
+With more time, I would try to implement a more complex metric for analysis. 
+
+I had the idea of improving my "nicheness" metric and how I decide how to measure how niche someone's music taste is. At first I had the idea of taking $ \frac{1}{\text{listeners}} \times \text{rating} $ as a formula for calculating a "nicheness" of someone's taste, however I realised that if a user was submitting songs with low listener count themselves, they would be penalised because they could not rate their own songs. To fix this I gave each submission a default 7/10 rating by the user that submitted the track. Then, I noticed a "rating inflation", when one user was a less harsh/strict critic than the others, so I tried to implement a Z-Score Normalisation to counter this, however I could not find a way to implement all this correctly and still achieve results I thought were accurate within the timeframe I had. Instead, I used a reliable baseline, and calculated "nicheness" by taking the average of all songs a user submitted, or rated 7 or higher. With more time, I will fully implement the Z-score normalization to dynamically account for reviewer bias.
+
+Other improvements would be to improve the usage of the notes written by users, I believe the notes could be useful on the dashboard to give more context to songs. Also, I would implement a second API that contains more detailed data about each song and artist, such as tempo, more specific genres, or danceability to improve the bredth of the trends that could be analysed.
+
+
+
 ## AI Assistance
 To begin with I had many ideas of directions to take my project, however, having never undertaken a similar project, I used AI to check the feasibility of such ideas within the time limit I had set myself. Throughout the process of writing the code, whenever the program was broken and I could not see where the issue was, I would use the built in Copilot agent in VS Code to troubleshoot and locate the root of the issue. Lastly, having never created a streamlit app before, after creating very basic tables myself, I used AI to improve the UI of the app itself, such as adding more colour and improving general display.
